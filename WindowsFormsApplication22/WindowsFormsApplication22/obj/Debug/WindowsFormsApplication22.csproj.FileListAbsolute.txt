@@ -1,0 +1,12 @@
+c:\users\adamar\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csprojResolveAssemblyReference.cache
+c:\users\adamar\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Form1.resources
+c:\users\adamar\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.Properties.Resources.resources
+c:\users\adamar\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\WindowsFormsApplication22.csproj.GenerateResource.Cache
+c:\users\adamar\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\Haya Bulmakodu.exe.config
+c:\users\adamar\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\Haya Bulmakodu.exe
+c:\users\adamar\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\Haya Bulmakodu.pdb
+c:\users\adamar\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\Haya Bulmakodu.exe
+c:\users\adamar\documents\visual studio 2012\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\Haya Bulmakodu.pdb
+H:\9.11.2014(Yedek)\Projects\WindowsFormsApplication22\WindowsFormsApplication22\bin\Debug\Haya Bulmakodu.exe.config
+H:\9.11.2014(Yedek)\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\Haya Bulmakodu.exe
+H:\9.11.2014(Yedek)\Projects\WindowsFormsApplication22\WindowsFormsApplication22\obj\Debug\Haya Bulmakodu.pdb

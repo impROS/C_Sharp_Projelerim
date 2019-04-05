@@ -1,0 +1,26 @@
+c:\users\ok\documents\visual studio 2010\Projects\Kullanici Kaydi\Kullanici Kaydi\bin\Debug\Kullanici Kaydi.exe
+c:\users\ok\documents\visual studio 2010\Projects\Kullanici Kaydi\Kullanici Kaydi\bin\Debug\Kullanici Kaydi.pdb
+c:\users\ok\documents\visual studio 2010\Projects\Kullanici Kaydi\Kullanici Kaydi\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\ok\documents\visual studio 2010\Projects\Kullanici Kaydi\Kullanici Kaydi\obj\x86\Debug\Kullanici_Kaydi.Form1.resources
+c:\users\ok\documents\visual studio 2010\Projects\Kullanici Kaydi\Kullanici Kaydi\obj\x86\Debug\Kullanici_Kaydi.Properties.Resources.resources
+c:\users\ok\documents\visual studio 2010\Projects\Kullanici Kaydi\Kullanici Kaydi\obj\x86\Debug\GenerateResource.read.1.tlog
+c:\users\ok\documents\visual studio 2010\Projects\Kullanici Kaydi\Kullanici Kaydi\obj\x86\Debug\GenerateResource.write.1.tlog
+c:\users\ok\documents\visual studio 2010\Projects\Kullanici Kaydi\Kullanici Kaydi\obj\x86\Debug\Kullanici Kaydi.exe
+c:\users\ok\documents\visual studio 2010\Projects\Kullanici Kaydi\Kullanici Kaydi\obj\x86\Debug\Kullanici Kaydi.pdb
+C:\Users\Ok\Desktop\Kullanici Kaydi\Kullanici Kaydi\obj\x86\Debug\Kullanici Kaydi.exe
+C:\Users\Ok\Desktop\Kullanici Kaydi\Kullanici Kaydi\obj\x86\Debug\Kullanici Kaydi.pdb
+C:\Users\Ok\Desktop\Kullanici Kaydi\Kullanici Kaydi\bin\Debug\Kullanici Kaydi.exe
+C:\Users\Ok\Desktop\Kullanici Kaydi\Kullanici Kaydi\bin\Debug\Kullanici Kaydi.pdb
+C:\Users\Ok\Desktop\Kullanici Kaydi\Kullanici Kaydi\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Ok\Desktop\Kullanici Kaydi\Kullanici Kaydi\obj\x86\Debug\Kullanici_Kaydi.Form1.resources
+C:\Users\Ok\Desktop\Kullanici Kaydi\Kullanici Kaydi\obj\x86\Debug\Kullanici_Kaydi.Properties.Resources.resources
+C:\Users\Ok\Desktop\Kullanici Kaydi\Kullanici Kaydi\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Ok\Desktop\Kullanici Kaydi\Kullanici Kaydi\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\x.impROS.x\Desktop\c# source\Kullanici Kaydi\Kullanici Kaydi\Kullanici Kaydi\obj\x86\Debug\Kullanici Kaydi.exe
+C:\Users\x.impROS.x\Desktop\c# source\Kullanici Kaydi\Kullanici Kaydi\Kullanici Kaydi\obj\x86\Debug\Kullanici Kaydi.pdb
+C:\Users\x.impROS.x\Desktop\c# source\Kullanici Kaydi\Kullanici Kaydi\Kullanici Kaydi\bin\Debug\Kullanici Kaydi.exe
+C:\Users\x.impROS.x\Desktop\c# source\Kullanici Kaydi\Kullanici Kaydi\Kullanici Kaydi\bin\Debug\Kullanici Kaydi.pdb
+C:\Users\x.impROS.x\Desktop\c# source\Kullanici Kaydi\Kullanici Kaydi\Kullanici Kaydi\obj\x86\Debug\Kullanici Kaydi.csprojResolveAssemblyReference.cache
+C:\Users\x.impROS.x\Desktop\c# source\Kullanici Kaydi\Kullanici Kaydi\Kullanici Kaydi\obj\x86\Debug\Kullanici_Kaydi.Form1.resources
+C:\Users\x.impROS.x\Desktop\c# source\Kullanici Kaydi\Kullanici Kaydi\Kullanici Kaydi\obj\x86\Debug\Kullanici_Kaydi.Properties.Resources.resources
+C:\Users\x.impROS.x\Desktop\c# source\Kullanici Kaydi\Kullanici Kaydi\Kullanici Kaydi\obj\x86\Debug\Kullanici Kaydi.csproj.GenerateResource.Cache

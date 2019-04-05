@@ -1,0 +1,21 @@
+G:\Csharp\DosyaKoplayama\DosyaKoplayama\bin\Debug\DosyaKoplayama.exe.config
+G:\Csharp\DosyaKoplayama\DosyaKoplayama\obj\Debug\DosyaKoplayama.csprojResolveAssemblyReference.cache
+G:\Csharp\DosyaKoplayama\DosyaKoplayama\obj\Debug\DosyaKoplayama.Form1.resources
+G:\Csharp\DosyaKoplayama\DosyaKoplayama\obj\Debug\DosyaKoplayama.Properties.Resources.resources
+G:\Csharp\DosyaKoplayama\DosyaKoplayama\obj\Debug\DosyaKoplayama.csproj.GenerateResource.Cache
+G:\Csharp\DosyaKoplayama\DosyaKoplayama\bin\Debug\DosyaKoplayama.exe
+G:\Csharp\DosyaKoplayama\DosyaKoplayama\bin\Debug\DosyaKoplayama.pdb
+G:\Csharp\DosyaKoplayama\DosyaKoplayama\obj\Debug\DosyaKoplayama.exe
+G:\Csharp\DosyaKoplayama\DosyaKoplayama\obj\Debug\DosyaKoplayama.pdb
+C:\Users\impROS\Desktop\Projeler\Dosya Kpyalama projesi\DosyaKoplayama - Vs2012\DosyaKoplayama\bin\Debug\DosyaKoplayama.exe.config
+C:\Users\impROS\Desktop\Projeler\Dosya Kpyalama projesi\DosyaKoplayama - Vs2012\DosyaKoplayama\obj\Debug\DosyaKoplayama.exe
+C:\Users\impROS\Desktop\Projeler\Dosya Kpyalama projesi\DosyaKoplayama - Vs2012\DosyaKoplayama\obj\Debug\DosyaKoplayama.pdb
+C:\Users\impROS\Desktop\Projeler\Dosya Kpyalama projesi\DosyaKoplayama - Vs2012\DosyaKoplayama\bin\Debug\DosyaKoplayama.exe
+C:\Users\impROS\Desktop\Projeler\Dosya Kpyalama projesi\DosyaKoplayama - Vs2012\DosyaKoplayama\bin\Debug\DosyaKoplayama.pdb
+C:\Users\impROS\Desktop\Projeler\Dosya Kpyalama projesi\DosyaKoplayama - Vs2012\DosyaKoplayama\obj\Debug\DosyaKoplayama.csprojResolveAssemblyReference.cache
+C:\Users\impROS\Desktop\Projeler\Dosya Kpyalama projesi\DosyaKoplayama - Vs2012\DosyaKoplayama\obj\Debug\DosyaKoplayama.Form1.resources
+C:\Users\impROS\Desktop\Projeler\Dosya Kpyalama projesi\DosyaKoplayama - Vs2012\DosyaKoplayama\obj\Debug\DosyaKoplayama.Properties.Resources.resources
+C:\Users\impROS\Desktop\Projeler\Dosya Kpyalama projesi\DosyaKoplayama - Vs2012\DosyaKoplayama\obj\Debug\DosyaKoplayama.csproj.GenerateResource.Cache
+C:\Users\impROS\Desktop\Projeler\Dosya Kpyalama projesi\DosyaKoplayama - Vs2012\DosyaKoplayama - Vs2012\DosyaKoplayama\bin\Debug\DosyaKoplayama.exe.config
+C:\Users\impROS\Desktop\Projeler\Dosya Kpyalama projesi\DosyaKoplayama - Vs2012\DosyaKoplayama - Vs2012\DosyaKoplayama\obj\Debug\DosyaKoplayama.exe
+C:\Users\impROS\Desktop\Projeler\Dosya Kpyalama projesi\DosyaKoplayama - Vs2012\DosyaKoplayama - Vs2012\DosyaKoplayama\obj\Debug\DosyaKoplayama.pdb

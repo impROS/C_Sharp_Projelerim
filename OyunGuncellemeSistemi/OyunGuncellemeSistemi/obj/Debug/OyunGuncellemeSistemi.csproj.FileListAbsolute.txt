@@ -1,0 +1,21 @@
+c:\users\adamar\documents\visual studio 2012\Projects\OyunGuncellemeSistemi\OyunGuncellemeSistemi\bin\Debug\OyunGuncellemeSistemi.exe.config
+c:\users\adamar\documents\visual studio 2012\Projects\OyunGuncellemeSistemi\OyunGuncellemeSistemi\bin\Debug\OyunGuncellemeSistemi.exe
+c:\users\adamar\documents\visual studio 2012\Projects\OyunGuncellemeSistemi\OyunGuncellemeSistemi\bin\Debug\OyunGuncellemeSistemi.pdb
+c:\users\adamar\documents\visual studio 2012\Projects\OyunGuncellemeSistemi\OyunGuncellemeSistemi\obj\Debug\OyunGuncellemeSistemi.Form1.resources
+c:\users\adamar\documents\visual studio 2012\Projects\OyunGuncellemeSistemi\OyunGuncellemeSistemi\obj\Debug\OyunGuncellemeSistemi.Properties.Resources.resources
+c:\users\adamar\documents\visual studio 2012\Projects\OyunGuncellemeSistemi\OyunGuncellemeSistemi\obj\Debug\OyunGuncellemeSistemi.csproj.GenerateResource.Cache
+c:\users\adamar\documents\visual studio 2012\Projects\OyunGuncellemeSistemi\OyunGuncellemeSistemi\obj\Debug\OyunGuncellemeSistemi.exe
+c:\users\adamar\documents\visual studio 2012\Projects\OyunGuncellemeSistemi\OyunGuncellemeSistemi\obj\Debug\OyunGuncellemeSistemi.pdb
+c:\users\adamar\documents\visual studio 2012\Projects\OyunGuncellemeSistemi\OyunGuncellemeSistemi\obj\Debug\OyunGuncellemeSistemi.csprojResolveAssemblyReference.cache
+C:\Users\impROS\Desktop\diğer pc dosyaları\Projects\OyunGuncellemeSistemi\OyunGuncellemeSistemi\bin\Debug\OyunGuncellemeSistemi.exe.config
+C:\Users\impROS\Desktop\diğer pc dosyaları\Projects\OyunGuncellemeSistemi\OyunGuncellemeSistemi\obj\Debug\OyunGuncellemeSistemi.exe
+C:\Users\impROS\Desktop\diğer pc dosyaları\Projects\OyunGuncellemeSistemi\OyunGuncellemeSistemi\obj\Debug\OyunGuncellemeSistemi.pdb
+C:\Users\impROS\Desktop\diğer pc dosyaları\Projects\OyunGuncellemeSistemi\OyunGuncellemeSistemi\bin\Debug\OyunGuncellemeSistemi.exe
+C:\Users\impROS\Desktop\diğer pc dosyaları\Projects\OyunGuncellemeSistemi\OyunGuncellemeSistemi\bin\Debug\OyunGuncellemeSistemi.pdb
+C:\Users\impROS\Desktop\diğer pc dosyaları\Projects\OyunGuncellemeSistemi\OyunGuncellemeSistemi\obj\Debug\OyunGuncellemeSistemi.csprojResolveAssemblyReference.cache
+C:\Users\impROS\Desktop\diğer pc dosyaları\Projects\OyunGuncellemeSistemi\OyunGuncellemeSistemi\obj\Debug\OyunGuncellemeSistemi.Form1.resources
+C:\Users\impROS\Desktop\diğer pc dosyaları\Projects\OyunGuncellemeSistemi\OyunGuncellemeSistemi\obj\Debug\OyunGuncellemeSistemi.Properties.Resources.resources
+C:\Users\impROS\Desktop\diğer pc dosyaları\Projects\OyunGuncellemeSistemi\OyunGuncellemeSistemi\obj\Debug\OyunGuncellemeSistemi.csproj.GenerateResource.Cache
+C:\Users\impROS\Desktop\Projects\OyunGuncellemeSistemi\OyunGuncellemeSistemi\bin\Debug\OyunGuncellemeSistemi.exe.config
+C:\Users\impROS\Desktop\Projects\OyunGuncellemeSistemi\OyunGuncellemeSistemi\obj\Debug\OyunGuncellemeSistemi.exe
+C:\Users\impROS\Desktop\Projects\OyunGuncellemeSistemi\OyunGuncellemeSistemi\obj\Debug\OyunGuncellemeSistemi.pdb

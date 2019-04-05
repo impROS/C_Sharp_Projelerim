@@ -1,0 +1,10 @@
+c:\users\adamar\documents\visual studio 2012\Projects\socketilişkisi\socketilişkisi\bin\Debug\socketilişkisi.exe.config
+c:\users\adamar\documents\visual studio 2012\Projects\socketilişkisi\socketilişkisi\bin\Debug\socketilişkisi.exe
+c:\users\adamar\documents\visual studio 2012\Projects\socketilişkisi\socketilişkisi\bin\Debug\socketilişkisi.pdb
+c:\users\adamar\documents\visual studio 2012\Projects\socketilişkisi\socketilişkisi\obj\Debug\socketilişkisi.csprojResolveAssemblyReference.cache
+c:\users\adamar\documents\visual studio 2012\Projects\socketilişkisi\socketilişkisi\obj\Debug\socketilişkisi.Form1.resources
+c:\users\adamar\documents\visual studio 2012\Projects\socketilişkisi\socketilişkisi\obj\Debug\socketilişkisi.Properties.Resources.resources
+c:\users\adamar\documents\visual studio 2012\Projects\socketilişkisi\socketilişkisi\obj\Debug\socketilişkisi.csproj.GenerateResource.Cache
+c:\users\adamar\documents\visual studio 2012\Projects\socketilişkisi\socketilişkisi\obj\Debug\socketilişkisi.exe
+c:\users\adamar\documents\visual studio 2012\Projects\socketilişkisi\socketilişkisi\obj\Debug\socketilişkisi.pdb
+c:\users\adamar\documents\visual studio 2012\Projects\socketilişkisi\socketilişkisi\obj\Debug\socketilişkisi.Server.resources

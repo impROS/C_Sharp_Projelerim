@@ -1,0 +1,9 @@
+c:\users\adamar\documents\visual studio 2012\Projects\program hızı\program hızı\bin\Debug\program hızı.exe.config
+c:\users\adamar\documents\visual studio 2012\Projects\program hızı\program hızı\obj\Debug\program hızı.csprojResolveAssemblyReference.cache
+c:\users\adamar\documents\visual studio 2012\Projects\program hızı\program hızı\obj\Debug\program_hızı.Form1.resources
+c:\users\adamar\documents\visual studio 2012\Projects\program hızı\program hızı\obj\Debug\program_hızı.Properties.Resources.resources
+c:\users\adamar\documents\visual studio 2012\Projects\program hızı\program hızı\obj\Debug\program hızı.csproj.GenerateResource.Cache
+c:\users\adamar\documents\visual studio 2012\Projects\program hızı\program hızı\bin\Debug\program hızı.exe
+c:\users\adamar\documents\visual studio 2012\Projects\program hızı\program hızı\bin\Debug\program hızı.pdb
+c:\users\adamar\documents\visual studio 2012\Projects\program hızı\program hızı\obj\Debug\program hızı.exe
+c:\users\adamar\documents\visual studio 2012\Projects\program hızı\program hızı\obj\Debug\program hızı.pdb

@@ -1,0 +1,9 @@
+c:\users\adamar\documents\visual studio 2012\Projects\ModAlma\ModAlma\bin\Debug\ModAlma.exe.config
+c:\users\adamar\documents\visual studio 2012\Projects\ModAlma\ModAlma\bin\Debug\ModAlma.exe
+c:\users\adamar\documents\visual studio 2012\Projects\ModAlma\ModAlma\bin\Debug\ModAlma.pdb
+c:\users\adamar\documents\visual studio 2012\Projects\ModAlma\ModAlma\obj\Debug\ModAlma.csprojResolveAssemblyReference.cache
+c:\users\adamar\documents\visual studio 2012\Projects\ModAlma\ModAlma\obj\Debug\ModAlma.Form1.resources
+c:\users\adamar\documents\visual studio 2012\Projects\ModAlma\ModAlma\obj\Debug\ModAlma.Properties.Resources.resources
+c:\users\adamar\documents\visual studio 2012\Projects\ModAlma\ModAlma\obj\Debug\ModAlma.csproj.GenerateResource.Cache
+c:\users\adamar\documents\visual studio 2012\Projects\ModAlma\ModAlma\obj\Debug\ModAlma.exe
+c:\users\adamar\documents\visual studio 2012\Projects\ModAlma\ModAlma\obj\Debug\ModAlma.pdb

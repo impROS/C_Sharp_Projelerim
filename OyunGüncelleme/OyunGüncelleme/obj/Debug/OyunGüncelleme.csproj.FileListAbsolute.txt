@@ -1,0 +1,11 @@
+c:\users\adamar\documents\visual studio 2012\Projects\OyunGüncelleme\OyunGüncelleme\bin\Debug\OyunGüncelleme.exe.config
+c:\users\adamar\documents\visual studio 2012\Projects\OyunGüncelleme\OyunGüncelleme\bin\Debug\OyunGüncelleme.exe
+c:\users\adamar\documents\visual studio 2012\Projects\OyunGüncelleme\OyunGüncelleme\bin\Debug\OyunGüncelleme.pdb
+c:\users\adamar\documents\visual studio 2012\Projects\OyunGüncelleme\OyunGüncelleme\obj\Debug\OyunGüncelleme.Form1.resources
+c:\users\adamar\documents\visual studio 2012\Projects\OyunGüncelleme\OyunGüncelleme\obj\Debug\OyunGüncelleme.Properties.Resources.resources
+c:\users\adamar\documents\visual studio 2012\Projects\OyunGüncelleme\OyunGüncelleme\obj\Debug\OyunGüncelleme.csproj.GenerateResource.Cache
+c:\users\adamar\documents\visual studio 2012\Projects\OyunGüncelleme\OyunGüncelleme\obj\Debug\OyunGüncelleme.exe
+c:\users\adamar\documents\visual studio 2012\Projects\OyunGüncelleme\OyunGüncelleme\obj\Debug\OyunGüncelleme.pdb
+C:\Users\impROS\Desktop\Projects\OyunGüncelleme\OyunGüncelleme\bin\Debug\OyunGüncelleme.exe.config
+C:\Users\impROS\Desktop\Projects\OyunGüncelleme\OyunGüncelleme\obj\Debug\OyunGüncelleme.exe
+C:\Users\impROS\Desktop\Projects\OyunGüncelleme\OyunGüncelleme\obj\Debug\OyunGüncelleme.pdb

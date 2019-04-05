@@ -1,0 +1,4 @@
+c:\users\adamar\documents\visual studio 2012\Projects\silme\silme\bin\Debug\silme.exe.config
+c:\users\adamar\documents\visual studio 2012\Projects\silme\silme\obj\Debug\silme.Form1.resources
+c:\users\adamar\documents\visual studio 2012\Projects\silme\silme\obj\Debug\silme.Properties.Resources.resources
+c:\users\adamar\documents\visual studio 2012\Projects\silme\silme\obj\Debug\silme.csproj.GenerateResource.Cache

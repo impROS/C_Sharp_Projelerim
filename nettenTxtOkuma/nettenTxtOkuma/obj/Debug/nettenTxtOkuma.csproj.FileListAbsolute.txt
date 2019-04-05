@@ -1,0 +1,9 @@
+c:\users\adamar\documents\visual studio 2012\Projects\nettenTxtOkuma\nettenTxtOkuma\bin\Debug\nettenTxtOkuma.exe.config
+c:\users\adamar\documents\visual studio 2012\Projects\nettenTxtOkuma\nettenTxtOkuma\obj\Debug\nettenTxtOkuma.Form1.resources
+c:\users\adamar\documents\visual studio 2012\Projects\nettenTxtOkuma\nettenTxtOkuma\obj\Debug\nettenTxtOkuma.Properties.Resources.resources
+c:\users\adamar\documents\visual studio 2012\Projects\nettenTxtOkuma\nettenTxtOkuma\obj\Debug\nettenTxtOkuma.csproj.GenerateResource.Cache
+c:\Users\Adamar\Documents\Visual Studio 2012\Projects\nettenTxtOkuma\nettenTxtOkuma\obj\Debug\nettenTxtOkuma.csprojResolveAssemblyReference.cache
+c:\Users\Adamar\Documents\Visual Studio 2012\Projects\nettenTxtOkuma\nettenTxtOkuma\bin\Debug\nettenTxtOkuma.exe
+c:\Users\Adamar\Documents\Visual Studio 2012\Projects\nettenTxtOkuma\nettenTxtOkuma\bin\Debug\nettenTxtOkuma.pdb
+c:\Users\Adamar\Documents\Visual Studio 2012\Projects\nettenTxtOkuma\nettenTxtOkuma\obj\Debug\nettenTxtOkuma.exe
+c:\Users\Adamar\Documents\Visual Studio 2012\Projects\nettenTxtOkuma\nettenTxtOkuma\obj\Debug\nettenTxtOkuma.pdb

@@ -1,0 +1,9 @@
+c:\users\adamar\documents\visual studio 2012\Projects\hangisiBüyük\hangisiBüyük\bin\Debug\hangisiBüyük.exe.config
+c:\users\adamar\documents\visual studio 2012\Projects\hangisiBüyük\hangisiBüyük\bin\Debug\hangisiBüyük.exe
+c:\users\adamar\documents\visual studio 2012\Projects\hangisiBüyük\hangisiBüyük\bin\Debug\hangisiBüyük.pdb
+c:\users\adamar\documents\visual studio 2012\Projects\hangisiBüyük\hangisiBüyük\obj\Debug\hangisiBüyük.csprojResolveAssemblyReference.cache
+c:\users\adamar\documents\visual studio 2012\Projects\hangisiBüyük\hangisiBüyük\obj\Debug\hangisiBüyük.Form1.resources
+c:\users\adamar\documents\visual studio 2012\Projects\hangisiBüyük\hangisiBüyük\obj\Debug\hangisiBüyük.Properties.Resources.resources
+c:\users\adamar\documents\visual studio 2012\Projects\hangisiBüyük\hangisiBüyük\obj\Debug\hangisiBüyük.csproj.GenerateResource.Cache
+c:\users\adamar\documents\visual studio 2012\Projects\hangisiBüyük\hangisiBüyük\obj\Debug\hangisiBüyük.exe
+c:\users\adamar\documents\visual studio 2012\Projects\hangisiBüyük\hangisiBüyük\obj\Debug\hangisiBüyük.pdb

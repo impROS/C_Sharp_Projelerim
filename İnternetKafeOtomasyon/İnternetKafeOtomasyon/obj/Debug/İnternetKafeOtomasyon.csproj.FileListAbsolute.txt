@@ -1,0 +1,9 @@
+c:\users\adamar\documents\visual studio 2012\Projects\İnternetKafeOtomasyon\İnternetKafeOtomasyon\bin\Debug\İnternetKafeOtomasyon.exe.config
+c:\users\adamar\documents\visual studio 2012\Projects\İnternetKafeOtomasyon\İnternetKafeOtomasyon\bin\Debug\İnternetKafeOtomasyon.exe
+c:\users\adamar\documents\visual studio 2012\Projects\İnternetKafeOtomasyon\İnternetKafeOtomasyon\bin\Debug\İnternetKafeOtomasyon.pdb
+c:\users\adamar\documents\visual studio 2012\Projects\İnternetKafeOtomasyon\İnternetKafeOtomasyon\obj\Debug\İnternetKafeOtomasyon.Form1.resources
+c:\users\adamar\documents\visual studio 2012\Projects\İnternetKafeOtomasyon\İnternetKafeOtomasyon\obj\Debug\İnternetKafeOtomasyon.Properties.Resources.resources
+c:\users\adamar\documents\visual studio 2012\Projects\İnternetKafeOtomasyon\İnternetKafeOtomasyon\obj\Debug\İnternetKafeOtomasyon.csproj.GenerateResource.Cache
+c:\users\adamar\documents\visual studio 2012\Projects\İnternetKafeOtomasyon\İnternetKafeOtomasyon\obj\Debug\İnternetKafeOtomasyon.exe
+c:\users\adamar\documents\visual studio 2012\Projects\İnternetKafeOtomasyon\İnternetKafeOtomasyon\obj\Debug\İnternetKafeOtomasyon.pdb
+C:\Users\Adamar\Documents\Visual Studio 2012\Projects\İnternetKafeOtomasyon\İnternetKafeOtomasyon\obj\Debug\İnternetKafeOtomasyon.csprojResolveAssemblyReference.cache

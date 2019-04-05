@@ -1,0 +1,2 @@
+c:\users\adamar\documents\visual studio 2012\Projects\WindowsFormsApplication21\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.exe.config
+H:\9.11.2014(Yedek)\Projects\WindowsFormsApplication21\WindowsFormsApplication21\bin\Debug\WindowsFormsApplication21.exe.config

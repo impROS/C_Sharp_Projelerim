@@ -1,0 +1,9 @@
+c:\users\adamar\documents\visual studio 2012\Projects\gerçekzamanlıkronometre\gerçekzamanlıkronometre\bin\Debug\gerçekzamanlıkronometre.exe.config
+c:\users\adamar\documents\visual studio 2012\Projects\gerçekzamanlıkronometre\gerçekzamanlıkronometre\obj\Debug\gerçekzamanlıkronometre.Form1.resources
+c:\users\adamar\documents\visual studio 2012\Projects\gerçekzamanlıkronometre\gerçekzamanlıkronometre\obj\Debug\gerçekzamanlıkronometre.Properties.Resources.resources
+c:\users\adamar\documents\visual studio 2012\Projects\gerçekzamanlıkronometre\gerçekzamanlıkronometre\obj\Debug\gerçekzamanlıkronometre.csproj.GenerateResource.Cache
+c:\users\adamar\documents\visual studio 2012\Projects\gerçekzamanlıkronometre\gerçekzamanlıkronometre\bin\Debug\gerçekzamanlıkronometre.exe
+c:\users\adamar\documents\visual studio 2012\Projects\gerçekzamanlıkronometre\gerçekzamanlıkronometre\bin\Debug\gerçekzamanlıkronometre.pdb
+c:\users\adamar\documents\visual studio 2012\Projects\gerçekzamanlıkronometre\gerçekzamanlıkronometre\obj\Debug\gerçekzamanlıkronometre.exe
+c:\users\adamar\documents\visual studio 2012\Projects\gerçekzamanlıkronometre\gerçekzamanlıkronometre\obj\Debug\gerçekzamanlıkronometre.pdb
+C:\Users\Adamar\documents\visual studio 2012\Projects\gerçekzamanlıkronometre\gerçekzamanlıkronometre\obj\Debug\gerçekzamanlıkronometre.csprojResolveAssemblyReference.cache

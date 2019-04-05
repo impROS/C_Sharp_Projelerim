@@ -1,0 +1,6 @@
+c:\users\adamar\documents\visual studio 2012\Projects\pictureboxekleme\pictureboxekleme\bin\Debug\pictureboxekleme.exe.config
+c:\users\adamar\documents\visual studio 2012\Projects\pictureboxekleme\pictureboxekleme\obj\Debug\pictureboxekleme.csprojResolveAssemblyReference.cache
+c:\users\adamar\documents\visual studio 2012\Projects\pictureboxekleme\pictureboxekleme\obj\Debug\pictureboxekleme.Form1.resources
+c:\users\adamar\documents\visual studio 2012\Projects\pictureboxekleme\pictureboxekleme\obj\Debug\pictureboxekleme.Properties.Resources.resources
+c:\users\adamar\documents\visual studio 2012\Projects\pictureboxekleme\pictureboxekleme\obj\Debug\pictureboxekleme.csproj.GenerateResource.Cache
+c:\users\adamar\documents\visual studio 2012\Projects\pictureboxekleme\pictureboxekleme\obj\Debug\DosyaTasima.Picturebox.resources

@@ -1,0 +1,15 @@
+c:\users\adamar\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.Form1.resources
+c:\users\adamar\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csproj.GenerateResource.Cache
+c:\users\adamar\documents\visual studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\WindowsFormsApplication2.csprojResolveAssemblyReference.cache
+C:\Users\Adamar\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\OtoRegKayıt.exe.config
+C:\Users\Adamar\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\OtoRegKayıt.exe
+C:\Users\Adamar\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\OtoRegKayıt.pdb
+C:\Users\Adamar\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\OtoRegKayıt.Properties.Resources.resources
+C:\Users\Adamar\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\OtoRegKayıt.exe
+C:\Users\Adamar\Documents\Visual Studio 2012\Projects\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\OtoRegKayıt.pdb
+C:\Users\Adamar\Desktop\OtoRegKayıt.exe.config
+C:\Users\Adamar\Desktop\OtoRegKayıt.exe
+C:\Users\Adamar\Desktop\OtoRegKayıt.pdb
+E:\impROS Masaüstü Yönetim Sistemi\C# Projeler\WindowsFormsApplication2\WindowsFormsApplication2\bin\Debug\OtoRegKayıt.exe.config
+E:\impROS Masaüstü Yönetim Sistemi\C# Projeler\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\OtoRegKayıt.exe
+E:\impROS Masaüstü Yönetim Sistemi\C# Projeler\WindowsFormsApplication2\WindowsFormsApplication2\obj\Debug\OtoRegKayıt.pdb

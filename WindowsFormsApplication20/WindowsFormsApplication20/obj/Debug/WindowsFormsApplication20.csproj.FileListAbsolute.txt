@@ -1,0 +1,12 @@
+c:\users\adamar\documents\visual studio 2012\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\WindowsFormsApplication20.exe.config
+c:\users\adamar\documents\visual studio 2012\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\WindowsFormsApplication20.exe
+c:\users\adamar\documents\visual studio 2012\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\WindowsFormsApplication20.pdb
+c:\users\adamar\documents\visual studio 2012\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.csprojResolveAssemblyReference.cache
+c:\users\adamar\documents\visual studio 2012\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.Form1.resources
+c:\users\adamar\documents\visual studio 2012\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.Properties.Resources.resources
+c:\users\adamar\documents\visual studio 2012\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.csproj.GenerateResource.Cache
+c:\users\adamar\documents\visual studio 2012\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.exe
+c:\users\adamar\documents\visual studio 2012\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.pdb
+H:\9.11.2014(Yedek)\Projects\WindowsFormsApplication20\WindowsFormsApplication20\bin\Debug\WindowsFormsApplication20.exe.config
+H:\9.11.2014(Yedek)\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.exe
+H:\9.11.2014(Yedek)\Projects\WindowsFormsApplication20\WindowsFormsApplication20\obj\Debug\WindowsFormsApplication20.pdb

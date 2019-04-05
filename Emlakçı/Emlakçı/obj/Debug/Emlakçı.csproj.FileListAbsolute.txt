@@ -1,0 +1,32 @@
+c:\users\mesut\documents\visual studio 2013\Projects\Emlakçı\Emlakçı\bin\Debug\Emlakçı.exe.config
+c:\users\mesut\documents\visual studio 2013\Projects\Emlakçı\Emlakçı\obj\Debug\Emlakçı.csprojResolveAssemblyReference.cache
+c:\users\mesut\documents\visual studio 2013\Projects\Emlakçı\Emlakçı\obj\Debug\Emlakçı.Form1.resources
+c:\users\mesut\documents\visual studio 2013\Projects\Emlakçı\Emlakçı\obj\Debug\Emlakçı.Properties.Resources.resources
+c:\users\mesut\documents\visual studio 2013\Projects\Emlakçı\Emlakçı\obj\Debug\Emlakçı.csproj.GenerateResource.Cache
+c:\users\mesut\documents\visual studio 2013\Projects\Emlakçı\Emlakçı\bin\Debug\Emlakçı.exe
+c:\users\mesut\documents\visual studio 2013\Projects\Emlakçı\Emlakçı\bin\Debug\Emlakçı.pdb
+c:\users\mesut\documents\visual studio 2013\Projects\Emlakçı\Emlakçı\obj\Debug\Emlakçı.exe
+c:\users\mesut\documents\visual studio 2013\Projects\Emlakçı\Emlakçı\obj\Debug\Emlakçı.pdb
+c:\users\mesut\documents\visual studio 2013\Projects\Emlakçı\Emlakçı\bin\Debug\Interop.WMPLib.dll
+c:\users\mesut\documents\visual studio 2013\Projects\Emlakçı\Emlakçı\bin\Debug\AxInterop.WMPLib.dll
+c:\users\mesut\documents\visual studio 2013\Projects\Emlakçı\Emlakçı\obj\Debug\Interop.WMPLib.dll
+c:\users\mesut\documents\visual studio 2013\Projects\Emlakçı\Emlakçı\obj\Debug\AxInterop.WMPLib.dll
+c:\users\mesut\documents\visual studio 2013\Projects\Emlakçı\Emlakçı\obj\Debug\Emlakçı.csproj.ResolveComReference.cache
+c:\users\mesut\documents\visual studio 2013\Projects\Emlakçı\Emlakçı\obj\Debug\Emlakçı.Form2.resources
+c:\users\mesut\documents\visual studio 2013\Projects\Emlakçı\Emlakçı\obj\Debug\Emlakçı.Form3.resources
+C:\Users\Adamar\Desktop\C#\Emlakçı\Emlakçı\bin\Debug\Emlakçı.exe.config
+C:\Users\Adamar\Desktop\C#\Emlakçı\Emlakçı\obj\Debug\Interop.WMPLib.dll
+C:\Users\Adamar\Desktop\C#\Emlakçı\Emlakçı\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Adamar\Desktop\C#\Emlakçı\Emlakçı\obj\Debug\Emlakçı.csproj.ResolveComReference.cache
+C:\Users\Adamar\Desktop\C#\Emlakçı\Emlakçı\obj\Debug\Emlakçı.exe
+C:\Users\Adamar\Desktop\C#\Emlakçı\Emlakçı\obj\Debug\Emlakçı.pdb
+C:\Users\Adamar\Desktop\C#\Emlakçı\Emlakçı\bin\Debug\Emlakçı.exe
+C:\Users\Adamar\Desktop\C#\Emlakçı\Emlakçı\bin\Debug\Emlakçı.pdb
+C:\Users\Adamar\Desktop\C#\Emlakçı\Emlakçı\bin\Debug\Interop.WMPLib.dll
+C:\Users\Adamar\Desktop\C#\Emlakçı\Emlakçı\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Adamar\Desktop\C#\Emlakçı\Emlakçı\obj\Debug\Emlakçı.csprojResolveAssemblyReference.cache
+C:\Users\Adamar\Desktop\C#\Emlakçı\Emlakçı\obj\Debug\Emlakçı.Form1.resources
+C:\Users\Adamar\Desktop\C#\Emlakçı\Emlakçı\obj\Debug\Emlakçı.Form2.resources
+C:\Users\Adamar\Desktop\C#\Emlakçı\Emlakçı\obj\Debug\Emlakçı.Form3.resources
+C:\Users\Adamar\Desktop\C#\Emlakçı\Emlakçı\obj\Debug\Emlakçı.Properties.Resources.resources
+C:\Users\Adamar\Desktop\C#\Emlakçı\Emlakçı\obj\Debug\Emlakçı.csproj.GenerateResource.Cache

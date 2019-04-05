@@ -1,0 +1,9 @@
+G:\Csharp\DosyaKoplayama\DosyaKoplayama\bin\Debug\DosyaKoplayama.exe.config
+G:\Csharp\DosyaKoplayama\DosyaKoplayama\obj\Debug\DosyaKoplayama.csprojResolveAssemblyReference.cache
+G:\Csharp\DosyaKoplayama\DosyaKoplayama\obj\Debug\DosyaKoplayama.Form1.resources
+G:\Csharp\DosyaKoplayama\DosyaKoplayama\obj\Debug\DosyaKoplayama.Properties.Resources.resources
+G:\Csharp\DosyaKoplayama\DosyaKoplayama\obj\Debug\DosyaKoplayama.csproj.GenerateResource.Cache
+G:\Csharp\DosyaKoplayama\DosyaKoplayama\bin\Debug\DosyaKoplayama.exe
+G:\Csharp\DosyaKoplayama\DosyaKoplayama\bin\Debug\DosyaKoplayama.pdb
+G:\Csharp\DosyaKoplayama\DosyaKoplayama\obj\Debug\DosyaKoplayama.exe
+G:\Csharp\DosyaKoplayama\DosyaKoplayama\obj\Debug\DosyaKoplayama.pdb

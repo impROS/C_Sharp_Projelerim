@@ -1,0 +1,18 @@
+C:\Users\DangerOusMaN32\Desktop\Dosya Boyutu\Dosya Boyutu\bin\Debug\Dosya Boyutu.exe.config
+C:\Users\DangerOusMaN32\Desktop\Dosya Boyutu\Dosya Boyutu\bin\Debug\Dosya Boyutu.exe
+C:\Users\DangerOusMaN32\Desktop\Dosya Boyutu\Dosya Boyutu\bin\Debug\Dosya Boyutu.pdb
+C:\Users\DangerOusMaN32\Desktop\Dosya Boyutu\Dosya Boyutu\obj\Debug\Dosya Boyutu.csprojResolveAssemblyReference.cache
+C:\Users\DangerOusMaN32\Desktop\Dosya Boyutu\Dosya Boyutu\obj\Debug\Dosya_Boyutu.Form1.resources
+C:\Users\DangerOusMaN32\Desktop\Dosya Boyutu\Dosya Boyutu\obj\Debug\Dosya_Boyutu.Properties.Resources.resources
+C:\Users\DangerOusMaN32\Desktop\Dosya Boyutu\Dosya Boyutu\obj\Debug\Dosya Boyutu.csproj.GenerateResource.Cache
+C:\Users\DangerOusMaN32\Desktop\Dosya Boyutu\Dosya Boyutu\obj\Debug\Dosya Boyutu.exe
+C:\Users\DangerOusMaN32\Desktop\Dosya Boyutu\Dosya Boyutu\obj\Debug\Dosya Boyutu.pdb
+C:\Users\impROS\Desktop\Projeler\Dosya Boyutu\Dosya Boyutu\Dosya Boyutu\bin\Debug\Dosya Boyutu.exe.config
+C:\Users\impROS\Desktop\Projeler\Dosya Boyutu\Dosya Boyutu\Dosya Boyutu\obj\Debug\Dosya Boyutu.exe
+C:\Users\impROS\Desktop\Projeler\Dosya Boyutu\Dosya Boyutu\Dosya Boyutu\obj\Debug\Dosya Boyutu.pdb
+C:\Users\impROS\Desktop\Projeler\Dosya Boyutu\Dosya Boyutu\Dosya Boyutu\bin\Debug\Dosya Boyutu.exe
+C:\Users\impROS\Desktop\Projeler\Dosya Boyutu\Dosya Boyutu\Dosya Boyutu\bin\Debug\Dosya Boyutu.pdb
+C:\Users\impROS\Desktop\Projeler\Dosya Boyutu\Dosya Boyutu\Dosya Boyutu\obj\Debug\Dosya Boyutu.csprojResolveAssemblyReference.cache
+C:\Users\impROS\Desktop\Projeler\Dosya Boyutu\Dosya Boyutu\Dosya Boyutu\obj\Debug\Dosya_Boyutu.Form1.resources
+C:\Users\impROS\Desktop\Projeler\Dosya Boyutu\Dosya Boyutu\Dosya Boyutu\obj\Debug\Dosya_Boyutu.Properties.Resources.resources
+C:\Users\impROS\Desktop\Projeler\Dosya Boyutu\Dosya Boyutu\Dosya Boyutu\obj\Debug\Dosya Boyutu.csproj.GenerateResource.Cache

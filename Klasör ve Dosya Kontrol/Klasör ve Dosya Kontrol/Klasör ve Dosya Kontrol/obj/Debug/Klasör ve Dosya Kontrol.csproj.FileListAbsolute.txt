@@ -1,0 +1,30 @@
+C:\Users\DangerOusMaN32\Desktop\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\bin\Debug\Klasör ve Dosya Kontrol.exe.config
+C:\Users\DangerOusMaN32\Desktop\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\obj\Debug\Klasör ve Dosya Kontrol.csprojResolveAssemblyReference.cache
+C:\Users\DangerOusMaN32\Desktop\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\obj\Debug\Klasör_ve_Dosya_Kontrol.Form1.resources
+C:\Users\DangerOusMaN32\Desktop\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\obj\Debug\Klasör_ve_Dosya_Kontrol.Properties.Resources.resources
+C:\Users\DangerOusMaN32\Desktop\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\obj\Debug\Klasör ve Dosya Kontrol.csproj.GenerateResource.Cache
+C:\Users\DangerOusMaN32\Desktop\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\bin\Debug\Klasör ve Dosya Kontrol.exe
+C:\Users\DangerOusMaN32\Desktop\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\bin\Debug\Klasör ve Dosya Kontrol.pdb
+C:\Users\DangerOusMaN32\Desktop\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\obj\Debug\Klasör ve Dosya Kontrol.exe
+C:\Users\DangerOusMaN32\Desktop\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\obj\Debug\Klasör ve Dosya Kontrol.pdb
+F:\Programlarım\Tüm Projelerimin Kaynak Kodları\c#\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\bin\Debug\Klasör ve Dosya Kontrol.exe.config
+F:\Programlarım\Tüm Projelerimin Kaynak Kodları\c#\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\obj\Debug\Klasör ve Dosya Kontrol.exe
+F:\Programlarım\Tüm Projelerimin Kaynak Kodları\c#\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\obj\Debug\Klasör ve Dosya Kontrol.pdb
+F:\Programlarım\Tüm Projelerimin Kaynak Kodları\c#\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\bin\Debug\Klasör ve Dosya Kontrol.exe
+F:\Programlarım\Tüm Projelerimin Kaynak Kodları\c#\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\bin\Debug\Klasör ve Dosya Kontrol.pdb
+F:\Programlarım\Tüm Projelerimin Kaynak Kodları\c#\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\obj\Debug\Klasör ve Dosya Kontrol.csprojResolveAssemblyReference.cache
+F:\Programlarım\Tüm Projelerimin Kaynak Kodları\c#\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\obj\Debug\Klasör_ve_Dosya_Kontrol.Form1.resources
+F:\Programlarım\Tüm Projelerimin Kaynak Kodları\c#\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\obj\Debug\Klasör_ve_Dosya_Kontrol.Properties.Resources.resources
+F:\Programlarım\Tüm Projelerimin Kaynak Kodları\c#\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\obj\Debug\Klasör ve Dosya Kontrol.csproj.GenerateResource.Cache
+D:\Programlarım\Tüm Projelerimin Kaynak Kodları\c#\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\bin\Debug\Klasör ve Dosya Kontrol.exe.config
+D:\Programlarım\Tüm Projelerimin Kaynak Kodları\c#\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\obj\Debug\Klasör ve Dosya Kontrol.exe
+D:\Programlarım\Tüm Projelerimin Kaynak Kodları\c#\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\obj\Debug\Klasör ve Dosya Kontrol.pdb
+C:\Users\Adamar\Downloads\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\bin\Debug\Klasör ve Dosya Kontrol.exe.config
+C:\Users\Adamar\Downloads\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\obj\Debug\Klasör ve Dosya Kontrol.exe
+C:\Users\Adamar\Downloads\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\obj\Debug\Klasör ve Dosya Kontrol.pdb
+C:\Users\Adamar\Downloads\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\bin\Debug\Klasör ve Dosya Kontrol.exe
+C:\Users\Adamar\Downloads\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\bin\Debug\Klasör ve Dosya Kontrol.pdb
+C:\Users\Adamar\Downloads\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\obj\Debug\Klasör ve Dosya Kontrol.csprojResolveAssemblyReference.cache
+C:\Users\Adamar\Downloads\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\obj\Debug\Klasör_ve_Dosya_Kontrol.Form1.resources
+C:\Users\Adamar\Downloads\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\obj\Debug\Klasör_ve_Dosya_Kontrol.Properties.Resources.resources
+C:\Users\Adamar\Downloads\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\Klasör ve Dosya Kontrol\obj\Debug\Klasör ve Dosya Kontrol.csproj.GenerateResource.Cache

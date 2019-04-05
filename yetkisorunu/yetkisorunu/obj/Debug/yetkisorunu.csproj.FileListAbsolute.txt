@@ -1,0 +1,8 @@
+c:\users\adamar\documents\visual studio 2012\Projects\yetkisorunu\yetkisorunu\bin\Debug\yetkisorunu.exe.config
+c:\users\adamar\documents\visual studio 2012\Projects\yetkisorunu\yetkisorunu\bin\Debug\yetkisorunu.exe
+c:\users\adamar\documents\visual studio 2012\Projects\yetkisorunu\yetkisorunu\bin\Debug\yetkisorunu.pdb
+c:\users\adamar\documents\visual studio 2012\Projects\yetkisorunu\yetkisorunu\obj\Debug\yetkisorunu.Form1.resources
+c:\users\adamar\documents\visual studio 2012\Projects\yetkisorunu\yetkisorunu\obj\Debug\yetkisorunu.Properties.Resources.resources
+c:\users\adamar\documents\visual studio 2012\Projects\yetkisorunu\yetkisorunu\obj\Debug\yetkisorunu.csproj.GenerateResource.Cache
+c:\users\adamar\documents\visual studio 2012\Projects\yetkisorunu\yetkisorunu\obj\Debug\yetkisorunu.exe
+c:\users\adamar\documents\visual studio 2012\Projects\yetkisorunu\yetkisorunu\obj\Debug\yetkisorunu.pdb

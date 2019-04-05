@@ -1,0 +1,17 @@
+c:\users\adamar\documents\visual studio 2012\Projects\MasaüstüArkaplanDeğiştir\MasaüstüArkaplanDeğiştir\bin\Debug\MasaüstüArkaplanDeğiştir.exe.config
+c:\users\adamar\documents\visual studio 2012\Projects\MasaüstüArkaplanDeğiştir\MasaüstüArkaplanDeğiştir\obj\Debug\MasaüstüArkaplanDeğiştir.Form1.resources
+c:\users\adamar\documents\visual studio 2012\Projects\MasaüstüArkaplanDeğiştir\MasaüstüArkaplanDeğiştir\obj\Debug\MasaüstüArkaplanDeğiştir.Properties.Resources.resources
+c:\users\adamar\documents\visual studio 2012\Projects\MasaüstüArkaplanDeğiştir\MasaüstüArkaplanDeğiştir\obj\Debug\MasaüstüArkaplanDeğiştir.csproj.GenerateResource.Cache
+c:\users\adamar\documents\visual studio 2012\Projects\MasaüstüArkaplanDeğiştir\MasaüstüArkaplanDeğiştir\bin\Debug\MasaüstüArkaplanDeğiştir.exe
+c:\users\adamar\documents\visual studio 2012\Projects\MasaüstüArkaplanDeğiştir\MasaüstüArkaplanDeğiştir\bin\Debug\MasaüstüArkaplanDeğiştir.pdb
+c:\users\adamar\documents\visual studio 2012\Projects\MasaüstüArkaplanDeğiştir\MasaüstüArkaplanDeğiştir\obj\Debug\MasaüstüArkaplanDeğiştir.exe
+c:\users\adamar\documents\visual studio 2012\Projects\MasaüstüArkaplanDeğiştir\MasaüstüArkaplanDeğiştir\obj\Debug\MasaüstüArkaplanDeğiştir.pdb
+E:\impROS Masaüstü Yönetim Sistemi\C# Projeler\MasaüstüArkaplanDeğiştir\MasaüstüArkaplanDeğiştir\bin\Debug\MasaüstüArkaplanDeğiştir.exe.config
+E:\impROS Masaüstü Yönetim Sistemi\C# Projeler\MasaüstüArkaplanDeğiştir\MasaüstüArkaplanDeğiştir\obj\Debug\MasaüstüArkaplanDeğiştir.exe
+E:\impROS Masaüstü Yönetim Sistemi\C# Projeler\MasaüstüArkaplanDeğiştir\MasaüstüArkaplanDeğiştir\obj\Debug\MasaüstüArkaplanDeğiştir.pdb
+E:\impROS Masaüstü Yönetim Sistemi\C# Projeler\MasaüstüArkaplanDeğiştir\MasaüstüArkaplanDeğiştir\bin\Debug\MasaüstüArkaplanDeğiştir.exe
+E:\impROS Masaüstü Yönetim Sistemi\C# Projeler\MasaüstüArkaplanDeğiştir\MasaüstüArkaplanDeğiştir\bin\Debug\MasaüstüArkaplanDeğiştir.pdb
+E:\impROS Masaüstü Yönetim Sistemi\C# Projeler\MasaüstüArkaplanDeğiştir\MasaüstüArkaplanDeğiştir\obj\Debug\MasaüstüArkaplanDeğiştir.csprojResolveAssemblyReference.cache
+E:\impROS Masaüstü Yönetim Sistemi\C# Projeler\MasaüstüArkaplanDeğiştir\MasaüstüArkaplanDeğiştir\obj\Debug\MasaüstüArkaplanDeğiştir.Form1.resources
+E:\impROS Masaüstü Yönetim Sistemi\C# Projeler\MasaüstüArkaplanDeğiştir\MasaüstüArkaplanDeğiştir\obj\Debug\MasaüstüArkaplanDeğiştir.Properties.Resources.resources
+E:\impROS Masaüstü Yönetim Sistemi\C# Projeler\MasaüstüArkaplanDeğiştir\MasaüstüArkaplanDeğiştir\obj\Debug\MasaüstüArkaplanDeğiştir.csproj.GenerateResource.Cache

@@ -1,0 +1,9 @@
+c:\users\adamar\documents\visual studio 2012\Projects\Picture Box Ekleme\Picture Box Ekleme\bin\Debug\Picture Box Ekleme.exe.config
+c:\users\adamar\documents\visual studio 2012\Projects\Picture Box Ekleme\Picture Box Ekleme\obj\Debug\Picture_Box_Ekleme.Form1.resources
+c:\users\adamar\documents\visual studio 2012\Projects\Picture Box Ekleme\Picture Box Ekleme\obj\Debug\Picture_Box_Ekleme.Properties.Resources.resources
+c:\users\adamar\documents\visual studio 2012\Projects\Picture Box Ekleme\Picture Box Ekleme\obj\Debug\Picture Box Ekleme.csproj.GenerateResource.Cache
+c:\users\adamar\documents\visual studio 2012\Projects\Picture Box Ekleme\Picture Box Ekleme\bin\Debug\Picture Box Ekleme.exe
+c:\users\adamar\documents\visual studio 2012\Projects\Picture Box Ekleme\Picture Box Ekleme\bin\Debug\Picture Box Ekleme.pdb
+c:\users\adamar\documents\visual studio 2012\Projects\Picture Box Ekleme\Picture Box Ekleme\obj\Debug\Picture Box Ekleme.exe
+c:\users\adamar\documents\visual studio 2012\Projects\Picture Box Ekleme\Picture Box Ekleme\obj\Debug\Picture Box Ekleme.pdb
+C:\Users\Adamar\Documents\Visual Studio 2012\Projects\Picture Box Ekleme\Picture Box Ekleme\obj\Debug\Picture Box Ekleme.csprojResolveAssemblyReference.cache

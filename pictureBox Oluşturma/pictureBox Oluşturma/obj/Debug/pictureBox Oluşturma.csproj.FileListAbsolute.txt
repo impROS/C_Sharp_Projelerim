@@ -1,0 +1,9 @@
+c:\users\adamar\documents\visual studio 2012\Projects\pictureBox Oluşturma\pictureBox Oluşturma\bin\Debug\pictureBox Oluşturma.exe.config
+c:\users\adamar\documents\visual studio 2012\Projects\pictureBox Oluşturma\pictureBox Oluşturma\bin\Debug\pictureBox Oluşturma.exe
+c:\users\adamar\documents\visual studio 2012\Projects\pictureBox Oluşturma\pictureBox Oluşturma\bin\Debug\pictureBox Oluşturma.pdb
+c:\users\adamar\documents\visual studio 2012\Projects\pictureBox Oluşturma\pictureBox Oluşturma\obj\Debug\pictureBox Oluşturma.csprojResolveAssemblyReference.cache
+c:\users\adamar\documents\visual studio 2012\Projects\pictureBox Oluşturma\pictureBox Oluşturma\obj\Debug\pictureBox_Oluşturma.Form1.resources
+c:\users\adamar\documents\visual studio 2012\Projects\pictureBox Oluşturma\pictureBox Oluşturma\obj\Debug\pictureBox_Oluşturma.Properties.Resources.resources
+c:\users\adamar\documents\visual studio 2012\Projects\pictureBox Oluşturma\pictureBox Oluşturma\obj\Debug\pictureBox Oluşturma.csproj.GenerateResource.Cache
+c:\users\adamar\documents\visual studio 2012\Projects\pictureBox Oluşturma\pictureBox Oluşturma\obj\Debug\pictureBox Oluşturma.exe
+c:\users\adamar\documents\visual studio 2012\Projects\pictureBox Oluşturma\pictureBox Oluşturma\obj\Debug\pictureBox Oluşturma.pdb

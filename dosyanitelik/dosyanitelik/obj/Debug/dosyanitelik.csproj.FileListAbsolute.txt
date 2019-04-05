@@ -1,0 +1,9 @@
+c:\users\adamar\documents\visual studio 2012\Projects\dosyanitelik\dosyanitelik\bin\Debug\dosyanitelik.exe.config
+c:\users\adamar\documents\visual studio 2012\Projects\dosyanitelik\dosyanitelik\obj\Debug\dosyanitelik.csprojResolveAssemblyReference.cache
+c:\users\adamar\documents\visual studio 2012\Projects\dosyanitelik\dosyanitelik\obj\Debug\dosyanitelik.Form1.resources
+c:\users\adamar\documents\visual studio 2012\Projects\dosyanitelik\dosyanitelik\obj\Debug\dosyanitelik.Properties.Resources.resources
+c:\users\adamar\documents\visual studio 2012\Projects\dosyanitelik\dosyanitelik\obj\Debug\dosyanitelik.csproj.GenerateResource.Cache
+c:\users\adamar\documents\visual studio 2012\Projects\dosyanitelik\dosyanitelik\bin\Debug\dosyanitelik.exe
+c:\users\adamar\documents\visual studio 2012\Projects\dosyanitelik\dosyanitelik\bin\Debug\dosyanitelik.pdb
+c:\users\adamar\documents\visual studio 2012\Projects\dosyanitelik\dosyanitelik\obj\Debug\dosyanitelik.exe
+c:\users\adamar\documents\visual studio 2012\Projects\dosyanitelik\dosyanitelik\obj\Debug\dosyanitelik.pdb

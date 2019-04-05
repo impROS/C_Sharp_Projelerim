@@ -1,0 +1,9 @@
+c:\users\adamar\documents\visual studio 2012\Projects\filtrekapat2\filtrekapat2\bin\Debug\filtrekapat2.exe.config
+c:\users\adamar\documents\visual studio 2012\Projects\filtrekapat2\filtrekapat2\obj\Debug\filtrekapat2.Form1.resources
+c:\users\adamar\documents\visual studio 2012\Projects\filtrekapat2\filtrekapat2\obj\Debug\filtrekapat2.Properties.Resources.resources
+c:\users\adamar\documents\visual studio 2012\Projects\filtrekapat2\filtrekapat2\obj\Debug\filtrekapat2.csproj.GenerateResource.Cache
+c:\users\adamar\documents\visual studio 2012\Projects\filtrekapat2\filtrekapat2\bin\Debug\filtrekapat2.exe
+c:\users\adamar\documents\visual studio 2012\Projects\filtrekapat2\filtrekapat2\bin\Debug\filtrekapat2.pdb
+c:\users\adamar\documents\visual studio 2012\Projects\filtrekapat2\filtrekapat2\obj\Debug\filtrekapat2.exe
+c:\users\adamar\documents\visual studio 2012\Projects\filtrekapat2\filtrekapat2\obj\Debug\filtrekapat2.pdb
+C:\Users\Adamar\documents\visual studio 2012\Projects\filtrekapat2\filtrekapat2\obj\Debug\filtrekapat2.csprojResolveAssemblyReference.cache

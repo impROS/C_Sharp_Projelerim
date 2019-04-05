@@ -1,0 +1,9 @@
+c:\users\adamar\documents\visual studio 2012\Projects\şifrekırma\şifrekırma\bin\Debug\şifrekırma.exe.config
+c:\users\adamar\documents\visual studio 2012\Projects\şifrekırma\şifrekırma\bin\Debug\şifrekırma.exe
+c:\users\adamar\documents\visual studio 2012\Projects\şifrekırma\şifrekırma\bin\Debug\şifrekırma.pdb
+c:\users\adamar\documents\visual studio 2012\Projects\şifrekırma\şifrekırma\obj\Debug\şifrekırma.csprojResolveAssemblyReference.cache
+c:\users\adamar\documents\visual studio 2012\Projects\şifrekırma\şifrekırma\obj\Debug\şifrekırma.Form1.resources
+c:\users\adamar\documents\visual studio 2012\Projects\şifrekırma\şifrekırma\obj\Debug\şifrekırma.Properties.Resources.resources
+c:\users\adamar\documents\visual studio 2012\Projects\şifrekırma\şifrekırma\obj\Debug\şifrekırma.csproj.GenerateResource.Cache
+c:\users\adamar\documents\visual studio 2012\Projects\şifrekırma\şifrekırma\obj\Debug\şifrekırma.exe
+c:\users\adamar\documents\visual studio 2012\Projects\şifrekırma\şifrekırma\obj\Debug\şifrekırma.pdb

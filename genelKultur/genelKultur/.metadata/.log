@@ -1,0 +1,56 @@
+!SESSION 2015-05-16 17:47:59.992 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=tr_TR
+Framework arguments:  -product org.eclipse.epp.package.standard.product -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.standard.product -data C:\Users\lenova\Desktop\Proje\genelKultur -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.ui 2 0 2015-05-16 17:48:12.695
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-05-16 17:48:12.695
+!MESSAGE Could not parse key sequence: plug-in='org.eclipse.ui', id='org.eclipse.ui.window.splitEditor', keySequence='Command+Shift+-'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-05-16 17:48:12.695
+!MESSAGE Could not parse key sequence: plug-in='org.eclipse.ui', id='org.eclipse.ui.window.splitEditor', keySequence='Command+Shift+['
+!SESSION 2015-05-16 17:49:18.989 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.8.0_25
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=tr_TR
+Framework arguments:  -product org.eclipse.epp.package.standard.product -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.standard.product -data C:\Users\lenova\Desktop\Proje\genelKultur -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.ui 2 0 2015-05-16 17:49:24.925
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-05-16 17:49:24.925
+!MESSAGE Could not parse key sequence: plug-in='org.eclipse.ui', id='org.eclipse.ui.window.splitEditor', keySequence='Command+Shift+-'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-05-16 17:49:24.925
+!MESSAGE Could not parse key sequence: plug-in='org.eclipse.ui', id='org.eclipse.ui.window.splitEditor', keySequence='Command+Shift+['
+!SESSION 2015-05-16 22:03:58.511 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=tr_TR
+Framework arguments:  -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.ui 2 0 2015-05-16 22:08:19.910
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-05-16 22:08:19.910
+!MESSAGE Could not parse key sequence: plug-in='org.eclipse.ui', id='org.eclipse.ui.window.splitEditor', keySequence='Command+Shift+-'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-05-16 22:08:19.910
+!MESSAGE Could not parse key sequence: plug-in='org.eclipse.ui', id='org.eclipse.ui.window.splitEditor', keySequence='Command+Shift+['
+!SESSION 2015-05-16 22:09:45.339 -----------------------------------------------
+eclipse.buildId=4.4.0.I20140606-1215
+java.version=1.8.0_45
+java.vendor=Oracle Corporation
+BootLoader constants: OS=win32, ARCH=x86_64, WS=win32, NL=tr_TR
+Framework arguments:  -product org.eclipse.epp.package.standard.product -product org.eclipse.epp.package.standard.product
+Command-line arguments:  -os win32 -ws win32 -arch x86_64 -product org.eclipse.epp.package.standard.product -data C:\Users\lenova\Desktop\Proje\genelKultur -product org.eclipse.epp.package.standard.product
+
+!ENTRY org.eclipse.ui 2 0 2015-05-16 22:09:52.812
+!MESSAGE Warnings while parsing the key bindings from the 'org.eclipse.ui.commands' extension point
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-05-16 22:09:52.812
+!MESSAGE Could not parse key sequence: plug-in='org.eclipse.ui', id='org.eclipse.ui.window.splitEditor', keySequence='Command+Shift+-'
+!SUBENTRY 1 org.eclipse.ui 2 0 2015-05-16 22:09:52.812
+!MESSAGE Could not parse key sequence: plug-in='org.eclipse.ui', id='org.eclipse.ui.window.splitEditor', keySequence='Command+Shift+['

@@ -1,0 +1,16 @@
+C:\Users\impROS01\Desktop\Güncelleme\Güncelleme1\Güncelleme\bin\Debug\Güncelleme.exe
+C:\Users\impROS01\Desktop\Güncelleme\Güncelleme1\Güncelleme\bin\Debug\Güncelleme.pdb
+C:\Users\impROS01\Desktop\Güncelleme\Güncelleme1\Güncelleme\obj\x86\Debug\Güncelleme.csprojResolveAssemblyReference.cache
+C:\Users\impROS01\Desktop\Güncelleme\Güncelleme1\Güncelleme\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\impROS01\Desktop\Güncelleme\Güncelleme1\Güncelleme\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\impROS01\Desktop\Güncelleme\Güncelleme1\Güncelleme\obj\x86\Debug\Güncelleme.csproj.GenerateResource.Cache
+C:\Users\impROS01\Desktop\Güncelleme\Güncelleme1\Güncelleme\obj\x86\Debug\Güncelleme.exe
+C:\Users\impROS01\Desktop\Güncelleme\Güncelleme1\Güncelleme\obj\x86\Debug\Güncelleme.pdb
+C:\Users\impROS\Desktop\Projeler\Güncelleme1\Güncelleme\obj\x86\Debug\Güncelleme.exe
+C:\Users\impROS\Desktop\Projeler\Güncelleme1\Güncelleme\obj\x86\Debug\Güncelleme.pdb
+C:\Users\impROS\Desktop\Projeler\Güncelleme1\Güncelleme\obj\x86\Debug\Güncelleme.csprojResolveAssemblyReference.cache
+C:\Users\impROS\Desktop\Projeler\Güncelleme1\Güncelleme\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\impROS\Desktop\Projeler\Güncelleme1\Güncelleme\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\impROS\Desktop\Projeler\Güncelleme1\Güncelleme\obj\x86\Debug\Güncelleme.csproj.GenerateResource.Cache
+C:\Users\impROS\Desktop\Projeler\Güncelleme1\Güncelleme\bin\Debug\Güncelleme.exe
+C:\Users\impROS\Desktop\Projeler\Güncelleme1\Güncelleme\bin\Debug\Güncelleme.pdb

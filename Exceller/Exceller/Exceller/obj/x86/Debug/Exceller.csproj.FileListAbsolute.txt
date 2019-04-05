@@ -1,0 +1,19 @@
+D:\Exceller\Exceller\obj\x86\Debug\Exceller.csproj.ResolveComReference.cache
+D:\Exceller\Exceller\bin\Debug\Exceller.exe
+D:\Exceller\Exceller\bin\Debug\Exceller.pdb
+D:\Exceller\Exceller\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Exceller\Exceller\obj\x86\Debug\Exceller.Form1.resources
+D:\Exceller\Exceller\obj\x86\Debug\Exceller.Properties.Resources.resources
+D:\Exceller\Exceller\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Exceller\Exceller\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Exceller\Exceller\obj\x86\Debug\Exceller.exe
+D:\Exceller\Exceller\obj\x86\Debug\Exceller.pdb
+C:\Users\x.impROS.x\Desktop\c# source\Exceller\Exceller\Exceller\obj\x86\Debug\Exceller.csproj.ResolveComReference.cache
+C:\Users\x.impROS.x\Desktop\c# source\Exceller\Exceller\Exceller\obj\x86\Debug\Exceller.exe
+C:\Users\x.impROS.x\Desktop\c# source\Exceller\Exceller\Exceller\obj\x86\Debug\Exceller.pdb
+C:\Users\x.impROS.x\Desktop\c# source\Exceller\Exceller\Exceller\obj\x86\Debug\Exceller.csprojResolveAssemblyReference.cache
+C:\Users\x.impROS.x\Desktop\c# source\Exceller\Exceller\Exceller\obj\x86\Debug\Exceller.Form1.resources
+C:\Users\x.impROS.x\Desktop\c# source\Exceller\Exceller\Exceller\obj\x86\Debug\Exceller.Properties.Resources.resources
+C:\Users\x.impROS.x\Desktop\c# source\Exceller\Exceller\Exceller\obj\x86\Debug\Exceller.csproj.GenerateResource.Cache
+C:\Users\x.impROS.x\Desktop\c# source\Exceller\Exceller\Exceller\bin\Debug\Exceller.exe
+C:\Users\x.impROS.x\Desktop\c# source\Exceller\Exceller\Exceller\bin\Debug\Exceller.pdb

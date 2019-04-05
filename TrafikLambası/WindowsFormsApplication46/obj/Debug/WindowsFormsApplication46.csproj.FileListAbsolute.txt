@@ -1,0 +1,18 @@
+c:\users\mesut\documents\visual studio 2013\Projects\WindowsFormsApplication46\WindowsFormsApplication46\bin\Debug\WindowsFormsApplication46.exe.config
+c:\users\mesut\documents\visual studio 2013\Projects\WindowsFormsApplication46\WindowsFormsApplication46\bin\Debug\WindowsFormsApplication46.exe
+c:\users\mesut\documents\visual studio 2013\Projects\WindowsFormsApplication46\WindowsFormsApplication46\bin\Debug\WindowsFormsApplication46.pdb
+c:\users\mesut\documents\visual studio 2013\Projects\WindowsFormsApplication46\WindowsFormsApplication46\obj\Debug\WindowsFormsApplication46.csprojResolveAssemblyReference.cache
+c:\users\mesut\documents\visual studio 2013\Projects\WindowsFormsApplication46\WindowsFormsApplication46\obj\Debug\WindowsFormsApplication46.Form1.resources
+c:\users\mesut\documents\visual studio 2013\Projects\WindowsFormsApplication46\WindowsFormsApplication46\obj\Debug\WindowsFormsApplication46.Properties.Resources.resources
+c:\users\mesut\documents\visual studio 2013\Projects\WindowsFormsApplication46\WindowsFormsApplication46\obj\Debug\WindowsFormsApplication46.csproj.GenerateResource.Cache
+c:\users\mesut\documents\visual studio 2013\Projects\WindowsFormsApplication46\WindowsFormsApplication46\obj\Debug\WindowsFormsApplication46.exe
+c:\users\mesut\documents\visual studio 2013\Projects\WindowsFormsApplication46\WindowsFormsApplication46\obj\Debug\WindowsFormsApplication46.pdb
+C:\Users\Adamar\Desktop\C#\TrafikLambası\WindowsFormsApplication46\bin\Debug\WindowsFormsApplication46.exe.config
+C:\Users\Adamar\Desktop\C#\TrafikLambası\WindowsFormsApplication46\obj\Debug\WindowsFormsApplication46.exe
+C:\Users\Adamar\Desktop\C#\TrafikLambası\WindowsFormsApplication46\obj\Debug\WindowsFormsApplication46.pdb
+C:\Users\Adamar\Desktop\C#\TrafikLambası\WindowsFormsApplication46\bin\Debug\WindowsFormsApplication46.exe
+C:\Users\Adamar\Desktop\C#\TrafikLambası\WindowsFormsApplication46\bin\Debug\WindowsFormsApplication46.pdb
+C:\Users\Adamar\Desktop\C#\TrafikLambası\WindowsFormsApplication46\obj\Debug\WindowsFormsApplication46.csprojResolveAssemblyReference.cache
+C:\Users\Adamar\Desktop\C#\TrafikLambası\WindowsFormsApplication46\obj\Debug\WindowsFormsApplication46.Form1.resources
+C:\Users\Adamar\Desktop\C#\TrafikLambası\WindowsFormsApplication46\obj\Debug\WindowsFormsApplication46.Properties.Resources.resources
+C:\Users\Adamar\Desktop\C#\TrafikLambası\WindowsFormsApplication46\obj\Debug\WindowsFormsApplication46.csproj.GenerateResource.Cache

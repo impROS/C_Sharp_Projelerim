@@ -1,0 +1,9 @@
+c:\users\adamar\documents\visual studio 2012\Projects\KlasorGuncelleme\KlasorGuncelleme\bin\Debug\KlasorGuncelleme.exe.config
+c:\users\adamar\documents\visual studio 2012\Projects\KlasorGuncelleme\KlasorGuncelleme\obj\Debug\KlasorGuncelleme.csprojResolveAssemblyReference.cache
+c:\users\adamar\documents\visual studio 2012\Projects\KlasorGuncelleme\KlasorGuncelleme\obj\Debug\KlasorGuncelleme.Form1.resources
+c:\users\adamar\documents\visual studio 2012\Projects\KlasorGuncelleme\KlasorGuncelleme\obj\Debug\KlasorGuncelleme.Properties.Resources.resources
+c:\users\adamar\documents\visual studio 2012\Projects\KlasorGuncelleme\KlasorGuncelleme\obj\Debug\KlasorGuncelleme.csproj.GenerateResource.Cache
+c:\users\adamar\documents\visual studio 2012\Projects\KlasorGuncelleme\KlasorGuncelleme\bin\Debug\KlasorGuncelleme.exe
+c:\users\adamar\documents\visual studio 2012\Projects\KlasorGuncelleme\KlasorGuncelleme\bin\Debug\KlasorGuncelleme.pdb
+c:\users\adamar\documents\visual studio 2012\Projects\KlasorGuncelleme\KlasorGuncelleme\obj\Debug\KlasorGuncelleme.exe
+c:\users\adamar\documents\visual studio 2012\Projects\KlasorGuncelleme\KlasorGuncelleme\obj\Debug\KlasorGuncelleme.pdb

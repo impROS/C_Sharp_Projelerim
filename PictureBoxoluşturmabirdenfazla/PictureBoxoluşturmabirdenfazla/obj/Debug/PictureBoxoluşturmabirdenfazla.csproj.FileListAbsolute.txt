@@ -1,0 +1,5 @@
+c:\users\adamar\documents\visual studio 2012\Projects\PictureBoxoluşturmabirdenfazla\PictureBoxoluşturmabirdenfazla\bin\Debug\PictureBoxoluşturmabirdenfazla.exe.config
+c:\users\adamar\documents\visual studio 2012\Projects\PictureBoxoluşturmabirdenfazla\PictureBoxoluşturmabirdenfazla\obj\Debug\PictureBoxoluşturmabirdenfazla.csprojResolveAssemblyReference.cache
+c:\users\adamar\documents\visual studio 2012\Projects\PictureBoxoluşturmabirdenfazla\PictureBoxoluşturmabirdenfazla\obj\Debug\PictureBoxoluşturmabirdenfazla.Form1.resources
+c:\users\adamar\documents\visual studio 2012\Projects\PictureBoxoluşturmabirdenfazla\PictureBoxoluşturmabirdenfazla\obj\Debug\PictureBoxoluşturmabirdenfazla.Properties.Resources.resources
+c:\users\adamar\documents\visual studio 2012\Projects\PictureBoxoluşturmabirdenfazla\PictureBoxoluşturmabirdenfazla\obj\Debug\PictureBoxoluşturmabirdenfazla.csproj.GenerateResource.Cache

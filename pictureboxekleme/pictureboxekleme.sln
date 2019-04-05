@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "pictureboxekleme", "pictureboxekleme\pictureboxekleme.csproj", "{631E7552-3A64-4E9E-A89E-D4E45B0B675A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{631E7552-3A64-4E9E-A89E-D4E45B0B675A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{631E7552-3A64-4E9E-A89E-D4E45B0B675A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{631E7552-3A64-4E9E-A89E-D4E45B0B675A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{631E7552-3A64-4E9E-A89E-D4E45B0B675A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

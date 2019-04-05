@@ -1,0 +1,9 @@
+c:\users\adamar\documents\visual studio 2012\Projects\asalsayi3\asalsayi3\bin\Debug\asalsayi3.exe.config
+c:\users\adamar\documents\visual studio 2012\Projects\asalsayi3\asalsayi3\obj\Debug\asalsayi3.csprojResolveAssemblyReference.cache
+c:\users\adamar\documents\visual studio 2012\Projects\asalsayi3\asalsayi3\obj\Debug\asalsayi3.Form1.resources
+c:\users\adamar\documents\visual studio 2012\Projects\asalsayi3\asalsayi3\obj\Debug\asalsayi3.Properties.Resources.resources
+c:\users\adamar\documents\visual studio 2012\Projects\asalsayi3\asalsayi3\obj\Debug\asalsayi3.csproj.GenerateResource.Cache
+c:\users\adamar\documents\visual studio 2012\Projects\asalsayi3\asalsayi3\bin\Debug\asalsayi3.exe
+c:\users\adamar\documents\visual studio 2012\Projects\asalsayi3\asalsayi3\bin\Debug\asalsayi3.pdb
+c:\users\adamar\documents\visual studio 2012\Projects\asalsayi3\asalsayi3\obj\Debug\asalsayi3.exe
+c:\users\adamar\documents\visual studio 2012\Projects\asalsayi3\asalsayi3\obj\Debug\asalsayi3.pdb

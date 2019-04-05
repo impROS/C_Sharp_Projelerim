@@ -1,0 +1,9 @@
+c:\users\adamar\documents\visual studio 2012\Projects\internet kafe\internet kafe\bin\Debug\internet kafe.exe.config
+c:\users\adamar\documents\visual studio 2012\Projects\internet kafe\internet kafe\bin\Debug\internet kafe.exe
+c:\users\adamar\documents\visual studio 2012\Projects\internet kafe\internet kafe\bin\Debug\internet kafe.pdb
+c:\users\adamar\documents\visual studio 2012\Projects\internet kafe\internet kafe\obj\Debug\internet kafe.csprojResolveAssemblyReference.cache
+c:\users\adamar\documents\visual studio 2012\Projects\internet kafe\internet kafe\obj\Debug\internet_kafe.Form1.resources
+c:\users\adamar\documents\visual studio 2012\Projects\internet kafe\internet kafe\obj\Debug\internet_kafe.Properties.Resources.resources
+c:\users\adamar\documents\visual studio 2012\Projects\internet kafe\internet kafe\obj\Debug\internet kafe.csproj.GenerateResource.Cache
+c:\users\adamar\documents\visual studio 2012\Projects\internet kafe\internet kafe\obj\Debug\internet kafe.exe
+c:\users\adamar\documents\visual studio 2012\Projects\internet kafe\internet kafe\obj\Debug\internet kafe.pdb

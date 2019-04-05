@@ -1,0 +1,4 @@
+c:\users\adamar\documents\visual studio 2012\Projects\WindowsFormsApplication11\WindowsFormsApplication11\bin\Debug\WindowsFormsApplication11.exe.config
+c:\users\adamar\documents\visual studio 2012\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\Directories.resources
+c:\users\adamar\documents\visual studio 2012\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.Properties.Resources.resources
+c:\users\adamar\documents\visual studio 2012\Projects\WindowsFormsApplication11\WindowsFormsApplication11\obj\Debug\WindowsFormsApplication11.csproj.GenerateResource.Cache

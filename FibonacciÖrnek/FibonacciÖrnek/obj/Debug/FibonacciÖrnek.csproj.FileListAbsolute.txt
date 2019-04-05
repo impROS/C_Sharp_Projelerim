@@ -1,0 +1,18 @@
+c:\users\mesut\documents\visual studio 2013\Projects\FibonacciÖrnek\FibonacciÖrnek\bin\Debug\FibonacciÖrnek.exe.config
+c:\users\mesut\documents\visual studio 2013\Projects\FibonacciÖrnek\FibonacciÖrnek\obj\Debug\FibonacciÖrnek.csprojResolveAssemblyReference.cache
+c:\users\mesut\documents\visual studio 2013\Projects\FibonacciÖrnek\FibonacciÖrnek\obj\Debug\FibonacciÖrnek.Form1.resources
+c:\users\mesut\documents\visual studio 2013\Projects\FibonacciÖrnek\FibonacciÖrnek\obj\Debug\FibonacciÖrnek.Properties.Resources.resources
+c:\users\mesut\documents\visual studio 2013\Projects\FibonacciÖrnek\FibonacciÖrnek\obj\Debug\FibonacciÖrnek.csproj.GenerateResource.Cache
+c:\users\mesut\documents\visual studio 2013\Projects\FibonacciÖrnek\FibonacciÖrnek\bin\Debug\FibonacciÖrnek.exe
+c:\users\mesut\documents\visual studio 2013\Projects\FibonacciÖrnek\FibonacciÖrnek\bin\Debug\FibonacciÖrnek.pdb
+c:\users\mesut\documents\visual studio 2013\Projects\FibonacciÖrnek\FibonacciÖrnek\obj\Debug\FibonacciÖrnek.exe
+c:\users\mesut\documents\visual studio 2013\Projects\FibonacciÖrnek\FibonacciÖrnek\obj\Debug\FibonacciÖrnek.pdb
+C:\Users\Adamar\Desktop\C#\FibonacciÖrnek\FibonacciÖrnek\bin\Debug\FibonacciÖrnek.exe.config
+C:\Users\Adamar\Desktop\C#\FibonacciÖrnek\FibonacciÖrnek\obj\Debug\FibonacciÖrnek.exe
+C:\Users\Adamar\Desktop\C#\FibonacciÖrnek\FibonacciÖrnek\obj\Debug\FibonacciÖrnek.pdb
+C:\Users\Adamar\Desktop\C#\FibonacciÖrnek\FibonacciÖrnek\bin\Debug\FibonacciÖrnek.exe
+C:\Users\Adamar\Desktop\C#\FibonacciÖrnek\FibonacciÖrnek\bin\Debug\FibonacciÖrnek.pdb
+C:\Users\Adamar\Desktop\C#\FibonacciÖrnek\FibonacciÖrnek\obj\Debug\FibonacciÖrnek.csprojResolveAssemblyReference.cache
+C:\Users\Adamar\Desktop\C#\FibonacciÖrnek\FibonacciÖrnek\obj\Debug\FibonacciÖrnek.Form1.resources
+C:\Users\Adamar\Desktop\C#\FibonacciÖrnek\FibonacciÖrnek\obj\Debug\FibonacciÖrnek.Properties.Resources.resources
+C:\Users\Adamar\Desktop\C#\FibonacciÖrnek\FibonacciÖrnek\obj\Debug\FibonacciÖrnek.csproj.GenerateResource.Cache

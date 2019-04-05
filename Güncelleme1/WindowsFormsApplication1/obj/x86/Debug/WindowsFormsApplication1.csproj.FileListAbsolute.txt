@@ -1,0 +1,3 @@
+C:\Users\impROS01\Desktop\Güncelleme\Güncelleme1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Form1.resources
+C:\Users\impROS01\Desktop\Güncelleme\Güncelleme1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.Properties.Resources.resources
+C:\Users\impROS01\Desktop\Güncelleme\Güncelleme1\WindowsFormsApplication1\obj\x86\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache

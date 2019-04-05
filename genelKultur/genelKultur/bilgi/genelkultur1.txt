@@ -1,0 +1,310 @@
+"Su aygýrýnýn sütü pembe renklidir.",
+"Leonardo da Vinci mona lisanýn dudaklarýný 12 yýlda boyamýþtýr.",
+"Uykusuz kalmak zihninizde aslýnda hiç yaþanmamýþ hatýralar yaratmanýza neden oluyor.",
+"Çakmak, kibritten önce icat edilmiþtir.",
+"Franck Ribery uzun bir süre önce müslümanlýðý seçti ve ismini Bilal Yusuf Mohammed olarak deðiþtirdi. Ancak hala Franck Ribery ismini kullanýyor.",
+"Neredeyse tüm meyve ve sebzeler bir miktar alkol içerir.",
+"Paraguay'da her iki tarafýn da kayýtlý kan baðýþçýsý olmasý koþuluyla düello yapmak serbest.",
+"Eski Mýsýrlýlar kedileri öldüðünde kaþlarýný kökünden kazýyarak yas tutuyorlardý.",
+"Þili'deki Atacama Çölü'ne bugüne dek hiç yaðmur yaðmamýþ.",
+"Gül meyve olmadýðý halde içerisinde en fazla C vitamini bulunduran bitkidir.",
+"Bir uzay mekiði yapmanýn maliyeti 1.7 milyar, uzaya yollamanýn maliyeti ise 450 milyon dolardýr.",
+"1918 senesinde grip salgýný, dünyada 21 milyon kiþinin ölümüne sebep olmuþtur.",
+"Çekik gözlülük baskýn gen olduðundan, bundan uzun yýllar sonra bütün dünyanýn çekik gözlü olmasý muhtemeldir.",
+"Martýlar doðada etçillerdir. Onlara simit yemeyi öðreten Türklerdir.",
+"'Batman' filminin kentin adýný kullanarak para kazandýðýný iddaa eden Batman Belediye Baþkaný Hüseyin Kalkan , Warner Bros þirketini dava açmýþtýr.",
+"Erkekler duygusuz, odun, aþktan anlamaz dense de kadýn þair sayýsý çok azdýr.",
+"Marlboro'nun kurucusu akciðer kanserinden dolayý ölmüþtür.",
+"Ýnsan uzun süre bir böbrek ve bir akciðerle, midesiz, dalaksýz yaþayabilir, ama karaciðersiz bir dakika bile yaþayamaz.",
+"Parmak izi gibi herkesin dil izi de farklýdýr.",
+"Bir kadýnýn sahip olduðu en fazla çocuk sayýsý 69.",
+"Bir yýlan 3 yýl uyuyabilir.",
+"Dünyanýn en hýzlý büyüyen bitkisi Bambu bir günde 90 cm. kadar uzuyor.",
+"Callio'nun lösemili bir çocuðun yaþama sevincini anlatan bi çizgi film olduðunu biliyor muydunuz?",
+"Göktürkler ekþiyen yoðurdun ekþiliðini azaltmak için üzerine su döktüklerinde tesadüfen ayraný keþfetmiþlerdir.",
+"Kutup ayýlýrý sýcak ve nemli bir ortamda kalýrlarsa kürklerinin rengi yeþile döner.",
+"ýnsomnia (uykusuzluk) þikayetiyle doktora baþvuranlarýn IQ deðerlerinin normalden daha yüksek olduðu gözlemlenmiþtir.",
+"Ketçap, 1830'lu yýllarda ilaç olarak satýlýrdý.",
+"Kaðýt para sanýldýðý gibi kaðýttan deðil pamuktan yapýlýr.",
+"Eðer Google’ýn arama butonuna “do a barrel roll” yazarsanýz, tüm ekran bir anda dönmeye baþlayacaktýr.",
+"Twitterda ki 140 karakter dünya üzerindeki 140 kuþ türünü temsil eder.",
+"Nike'ýn logosu 1971 yýlýnda bir Grafik Tasarým öðrencisi tarafýndan sadece 35$ dolara tasarlanmýþtýr.",
+"1.60 boyu Muggsy Bogues, NBA tarhininin en kýsa oyuncusudur.",
+"En uzun kalp durmasý 4 saattir.",
+"Birçok canlý türünün aksine sincaplar, annesi ölmüþ yavru sincaplarý evlatlýk alýr.",
+"iPhone'unuzu þarj ederken uçak modunu açarsanýz, 2 kat daha hýzlý þarj olur",
+"Çikolatalý süt ilk olarak Ýrlandalý doktorlar tarafýndan bulunmuþ ve Ýngiltere'de ilaç olarak satýlmýþtýr.",
+"Ýnsan uyandýðý andan itibaren beyin küçük bir ampulü yakacak kadar elektrik üretir.",
+"Bruce Lee, üniversitede felsefe okumuþtur.",
+"Türkmenistan'da 1991'den beri su, elektrik ve doðalgaz ücretsizdir.",
+"Rus Ruleti'nin bir Rus icadý olduðu yönünde tarihi bir kanýt yoktur.",
+"\"Týrmanan gurami\" oksijen soluyabilen ve karada yürüyebilen bir balýk türüdür.",
+"Ýsveç, lise öðrencilerine okula devam etsinler diye ayda 187 dolar ödemektedir.",
+"Paranormal Activity filminin maliyeti 15 bin dolar, getirisi ise 193 milyon dolardýr.",
+"Japonya'da her yýl sadece iki kiþi ateþli silahlarla cinayete kurban gitmektedir.",
+"Bir dine inanmanýz beyin korteksinizi kalýnlaþtýrýr ve depresyona girme riskinizi azaltýr.",
+"Ders çalýþýrken sabahlamak öðrendiklerinizi ileride hatýrlama ihtimalinizi yüzde 40 azaltýr.",
+"Bir biligisayar oyunu olan League of Legends resmi bir spor olarak kabul edilmektedir.",
+"Temizlik yapmak moral bozukluðuna iyi gelir.",
+"Þimdiye kadarki tüm Mýsýr cumhurbaþkanlarý ya öldürülerek ya da tutuklanarak koltuklarýný býrakmýþlardýr.",
+"Erkekler kadýnlara göre tarihleri ve isimleri daha çabuk unutur.",
+"Gece görüþü yeþildir, çünkü insan gözü en iyi yeþil tonlarýný ayrýt edebilir.",
+"Havuç radyoaktiftir.",
+"Evde Tek Baþýna filmi þimdiye kadar en çok hasýlat yapmýþ komedi filmidir.",
+"21 ülkenin aktif bir ordusu yoktur.",
+"Birbirleriyle çok yakýn arkadaþ olabilen insanlarýn belirli genetik benzerlikler gösterdikleri gözlemlenmiþ.",
+"Dünya'nýn en yüksek ses çýakran memelisi mavi balinalardýr.",
+"Kuzey Kore'de herkes devlet tarafýndan seçilmiþ 28 saç modelinden birini seçmek zorundadýr.",
+"Malezya'da bulunan bir karýnca türü düþman veya tehdit gördüðünde kendini patlatabilir.",
+ "Çin'de bir pandayý öldürmek idamla cezalandýrýlabilir.",
+         
+      "Ýnsanlar öfkeliyken daha dürüsttür.",
+         
+      "Dünya'da üretimi gerçekleþen tüm fýndýklarýn dörtte biri Nutella yapýmýnda kullanýlýr.",
+         
+       "6OO adet bitki cinsi et yiyendir."
+         
+      "Kereviz yerken harcanan kalori, içindeki kaloriden daha fazladýr.",
+         
+      "Bebeklerin parmak uçlarý kesilirse yerine yenisi çýkar.",
+         
+      "Whatsapp'ta her gün ortalama 64 milyar mesaj gönderilimektedir",
+         
+    "Ekvator'a yakýn bölgelerde Dünya'nýn geri kalanýnýn aksine erkekten çok kýz çocuk dünyaya gelmektedir",
+         
+      "Bir yaraya ya da kesiðe þeker dökmek aðrýyý azaltýr ve iyleþme sürecini hýzlandýrýr",
+         
+      "Bazý araþtýrmalara göre sanatçýlar intihar etmeye 18 kat daha meyillidir."
+         
+      "Salyangozlar bir gözlerini kaybettiklerinde yenisini çýkarabilirler.",
+         
+      "Avustralya'da yýlan yiyen büyük örümcükler vardýr.",
+       
+      "Beyinde acý reseptörleri yoktur, bu yüzden bir beyin ameliyatý sýrasýnda aslýnda canýnýzý acýtmaz.",
+         
+      "Roma döneminde yasalar evin erkeðine ailesinden herhangi birini öldürme hakkýný veriyordu.",
+         
+   "tayland'da iç çamaþýrý giymeden evinizden çýkmanýz yasaktýr.",
+        
+      "Rusya'da 2001 seçimlerinde oy pusulasýnda yukarýdakilerin hiçbiri bir seçenek olarak bulunmaktaydý",
+         
+     "Hollanda'da devlet eroin baðýmlýlarýna her gün üç defa ücretsiz eroin vermektedir.");
+         
+      "Bangladeþ'te 15 yaþ ve üzeri öðrenciler sýnavda kopya çekerlerse hapis cezasý alabilirler."
+         
+ "Portekiz'de uyuþturucu kullanýmý serbestleþtirildikten sonraki on yýl içinde baðýmlý sayýsý yarýyarýya azalmýþtýr.",
+         
+      "Eski zamanlarda, Çin'de doktorlar ücretlerini ancak hastayý iyileþtirebilirlerse alýyorlardý.",
+         
+      "Gökkuþaklarý aslýnda tam yuvarlak þekillidirler. Uçak ile giderken görülebilir.",
+      
+      "Yeryüzünde yapýlan ilk bina \"Kabe\" dir.",
+         
+      "Þempanzeler,foklar ve filler insanlardan daha güçlü hafýzaya sahiptir.",
+         
+     "Ýnsanýn gözü tam 576 megapikseldir."
+         
+      "Dünya'da içinde mikroorganizma ve bakteri bulunmayan tek su 'Zemzem' suyudur."
+         
+     "Araþtýrmalara göre, kadýnlar mavi giyen erkeklere daha kolay aþýk olmaktadýr.",
+         
+    "Yumurtanýzý buzdolabýndan çýkarýr çýkarmaz kýrarsanýz aký ve sarýsý birbirine karýþmaz.",
+         
+     "Sol böbreðiniz sað böbreðinize kýyasla daha yukarýdadýr.",
+         
+   "Köpek balýklarý hasta olmaz",
+         
+   "Yunuslar tek gözleri açýk uyur.",
+         
+     "Sýcak su, soðuk sudan daha aðýrdýr.",
+         
+  "Gülmek için 17 adeleye ihtiyaç vardýr. Surat asmak için ise 43 adeleye ihtiyaç vardýr."
+        
+      "Dünyada en çok kullanýlan isim Muhammed ‘dir.",
+        
+     "Tom sawyer daktiloda yazýlan ilk romandýr.",
+
+         
+      "Gözleri açýk tutarak hapþýrmak imkânsýzdýr.",
+         
+     "Birinin yüzünü hatýrlamak için beynin sað tarafý kullanýlýr.",
+         
+      "Hindistan'da, býyýk býrakan polislere % 8 daha yüksek maaþ ödenmektedir.",
+         
+      "Zürafalar günde yalnýzca yarým saat uyurlar ve genelde bunu ayakta yaparlar.",
+        
+      "Sevdiceðim kelimesi, sevdim ve seveceðim kelimelerinin birleþimidir.",
+         
+      "Ders çalýþýrken yazdýklarýnýzýn akýlda daha kalýcý olmasýný istiyorsanýz mavi renk kalem kullanýn.",
+         
+      "Hz. Muhammed (s.a.v.) 8 aylýkken konuþmaya baþlamýþtýr.",
+         
+          "Eðer buzunuzun çabuk donmasýný istiyorsanýz buzluða sýcak su haliyle koyun. (Sýcak su daha çabuk donar)",
+         
+          "Para icat edilmeden önce, deniz kabuðu deðiþim aracý olarak kullanýlmýþtýr.",
+         
+         "Dünyada Coca Cola Satýlmayan Sadece Ýki Ülke Var: Kuzey Kore Ve Küba.",
+         
+         "Piri Reis'in 1513 yýlýnda çizdiði haritada gösterdiði Güney Kutubu haritanýn çizilmesinden çok sonra 1818 de keþfedilmiþtir.");
+         
+         "24 Subat 1954'te tüm Istanbul Boðazý buz tutmuþ ve insanlar yürüyerek boðazý gecmistir.",
+         
+         "Bir insanýn uykusuz kalma rekoru 18 gün 21 saat ve 40 saniyedir.",         
+         "Sineklerin tam 9 kalbi vardýr. Gözlerinde ise 8000 mercek bulunur. Ve saniyede 100 görüntü algýlayabilir. ",
+         
+         "Ýnsan vücudunda 5 cm boyunda bir çivi yapacak kadar demir vardýr.",
+         
+         "Meksika'nýn kaðýt üzerinde 60 tane resmi dili vardýr.",
+         
+         "Sümüklü böcekler 3 yýl aralýksýz uyuyabilirler.",
+         
+         "Uçurtma uçurmak, Taylan'da profesyonel bir spordur."
+         
+         "Dünyada Yetisen En Cok Meyve üzümdür",
+         
+         "Sabahlarý elma kahveden daha fazla uykunuzu açar.",
+         
+         "Çin'de olsanýz bile Çin'in sýnýrlarý içerisinde bulunan Hong Kong'a girmek için ayrý bir vize gerekmektedir.",
+         
+         "Zeki insanlarýn saçlarýnda daha fazla oranda çinko ve bakýr bulunur.",
+         
+         "Suudi Arabistan’da hiç ýrmak yoktur.",
+         
+         "Makas denilen aleti Leonardo Da Vinci icat etti.",
+         
+         "Beethoven beste yapmadan önce kafasýný soðuk suya sokardý.",
+         
+         "Bill Gates 140 ÜLKEDEN daha zengindir",
+         
+         "Kayýtlara geçen dünyanýn en aðýr insaný 636 kg'dýr.",
+         
+         "Ýtalya'da bir erkeðin etek giymesi suçtur ve hapisle cezalandýrýlýr.",
+         
+         "18 Þubat 1979 yýlýnda sahra çölüne kar yaðmýþtý.",
+         
+         "Teksas'ýn hiç bir bölgesinde U dönüþü yapamazsýnýz",
+         
+         "Singapur'da metroda sakýz çiðnemenin hapis cezasý vardýr.",
+         
+         "Louis Vuitton satamadýðý ürünlerini yakmaktadýr, böylece ucuza satýlýp marka deðerini düþürmeyecektir.",
+         
+         "Yüzük, sol ele takýlýr çünkü yüzük parmaðý, kalple direkt olarak baðlantýsý olarak tek parmaðýmýzdýr.",
+         
+         "Hastane kokusu diye tabir ettiðimiz koku serumlardan yayýlan B vitamini kokusudur.",
+         
+         "Kadýnlarýn el ve ayaklarý, erkeklerden tam 9 kat daha fazla üþür!",
+         
+         "'Merhaba' sözcüðü Farsça kökenli olup 'benden sana zarar gelmez' anlamýný taþýr",
+         
+         "Yataktan düþüp ölme ihtimali 2 Milyonda 1'dir. Uçak kazasýnda ölme ihtimali 25 Milyonda 1'dir.",
+         
+         "Kendinizi gýdýklayamazsýnýz çünkü beyin beklenmedik dýþ dokunuþ ile kendi dokunuþunuzu ayýrt eder.",
+         
+         "Las Vegas'taki kumarhanelerin hiç birisinde saat yoktur.",
+         
+         "Sibirya'da insanlar sütü donmuþ çubuklar þeklinde alýrlar",
+         
+         "Doðum gününüzü en az 9 milyon kiþiyle paylaþýyorsunuz.",
+         
+         "Ýnsan midesi 2 haftada bir iç zarýný yenilemek zorundadýr;aksi halde kendi kendini sindirir.",
+         
+         "Sadece diþi sivrisinekler ýsýrýr."
+         
+         "Uzaylýlarla temasa geçmek veya uzaylýlarýn araçlarýný kurcalamak ABD kanunlarýna göre yasaktýr."
+         
+         "Ýstatistiklere göre, silikon memelerin %93'ü ilk 10 yýl içinde patlamýþtýr."
+         
+         "Ýncil’de Karides yemenin eþcinsellikten 4 kat daha günah olduðu yazmaktadýr. ",
+         
+         "Dünya’da her 5 saniyede 1 çift boþanýyor.",
+         
+         "Bir enstrüman çalmak ya da yabancý bir dil öðrenmek beynin yaþlanmasýný geciktirmektedir.",
+         
+         "Samsung'un 2015 reklam bütçesi 20 milyar dolardýr. Türkiye'nin en büyük þirketi olan Tüpraþ'ýn yýllýk cirosundan 4 milyar dolar fazladýr");
+         
+         "Kar kristalleri sesi yutar. Kar yaðdýðýnda oluþan sessizlik ve huzur ortamýnýn nedeni budur.",
+         
+         "Kelebekler, ayaklarý ile tat almaktadýr",
+         
+        "Shell, önceleri sadece deniz kabuðu satan bir firmayken deniz kabuðu ararken petrol yataklarýný keþfederek bu sektöre yönelmiþtir.");
+         
+      "Brokoli ayný zamanda çiçek olan tek sebzedir."
+         
+         "Steve Jobs Suriyelidir. Babasý Abdulfattah Jandali adlý Suriyeli Arap'týr ve Jobs'u evlatlýk vermiþtir.",
+         
+        "En fakir Amerikalýlar dünyanýn %80’inden daha zengindir.",
+         
+         "Telefonun þarj aletine baðlýyken kullanýlmasý bataryaya zarar verdiðinden þarj cihazlarýnýn kablosu kýsa yapýlýr.");
+         
+        "Dünyanýn en sýcak yeri gölgede 58 derece ile Afrika’da El-Ezize bölgesidir. ",
+         
+        "Brezilya hapishanelerinde yýlda 12 roman okuyan mahkumlarýn cezalarýndan 48 gün indiriliyor ",
+         
+              "Çin Seddi'nin uzaydan bakýldýðýnda göründüðü bilgisi yanlýþtýr. ",
+         
+          "Ýngiltere Ýç Savaþý'nda isyana sebep olduðu için hapse atýlan William Addis, 1780'de hapishanede diþ fýrçasýný bulmuþtur. ");
+         
+              "Tarihte en uzun hakimiyette kalmýþ sülale Osmanlý sülalesidir: 623 yýl. ",
+         
+           " Kargalar ortalama 120yýl yaþarlar.",
+         
+               " Dünyanýn en soðuk yeri güney kutbu olup sýcaklýk -80 ve -90 civarýndadýr.",
+         
+              "Deve kuþlarýnýn gözleri beyinlerinden büyüktür ",
+         
+         " Bir ýstakoz, ancak yedi senede, yarým kilo alabilir",
+         
+          "Develerin üç tane kaþý vardýr. ",
+         
+            
+         "Bazý kurbaða cinsleri tamamen donup, daha sonra eridiðinde yaþamýna devam edebilir. ",  
+         
+           "Gýdýklanma eski insanlar için yaþamsal reflekstir. Zehirli olabilecek böcek gibi canlýlarýn vücudumuzda dolaþtýðýný anlamamýzý saðlar. "
+         
+         "Körler de rüya görür. ",
+         
+        "Rekorlar kitabýnda kayýtlý en küçük köpek kibrit kutusundan biraz daha büyüktür. ",
+         
+          "Bukalemunlarýn dilleri, vücutlarýndan iki kat daha uzundur.  ",
+         
+        " Dünya'da sadece Lemurlarýn kafalarý 180 derecede dönebilir ",
+         
+         "Bir insanýn yaþamý boyunca iki yüzme havuzunu dolduracak kadar tükürük salgýladýðýný biliyor muydunuz? ",
+         
+        " Yiyeceðin aðzýnýzdan midenize ulaþmasý 7 saniye sürer.",
+         
+       "Þeritli solucanlar yiyecek bulamadýklarýnda kendi vücutlarýnýn bir kýsmýný yiyerek hayatta kalabilirler ",
+         
+        " Arýlar sabah erkenden kovanlarýndan çýkmazsa, hava kötü olacaktýr.",
+         
+         "Sinek kuþlarýnýn kalbi, dakikada 615 kez çarpar. Ýnsanlarýn kalbi ise dakikada 60-80 kez çarpar. ",
+         
+         "Gözleri açýk tutarak hapþýrmak imkânsýzdýr. ",
+         
+        "Hayvanlar aleminde sadece domuzlar güneþten yanabilir. ",
+         
+         "Sýðýrlarýn dört tane midesi vardýr. ",
+       
+         " Kýta isimlerinin hepsi ayný harfle baþlayýp ayný harfle biter.",
+        
+         " Birinin yüzünü hatýrlamak için beynin sað tarafý kullanýlýr.",
+         
+          "Bir Bardak Kola Ýçtiðiniz Zaman Günlük Almanýz Gereken Þekerin 60 Katýný Alýrsýnýz. ",
+         
+          " Beyaz iPhone'un siyah iPhone'dan daha pahalýya satýlmasý ýrkçýlýk karþýtý gruplar tarafýndan dava edilmiþtir.");
+         
+           "Ýstiridyeler cinsiyet deðiþtirebilir. ",
+         
+                 "Hz. Muhammedi (s.a.v)'in hadisi 'Akan bir nehrin kenarýnda olsanýz bile israf etmeyiniz', Avustralya'da su þiþelerine yazýlmýþtýr. ",
+                 "Dünyanýn en çok kazanan sporcusu golfçu Tiger Woods, yýlda 78 milyon dolar, yani saniyede 148 dolar kazanýyor. ",
+ "Dünya’nýn en uzun süre yanan ampulü California’ da bulunmaktadýr. Bu ampul 1901 ‘den bu yana yanmaktadýr. ",
+ "Ýstatistiklere göre, üþengeç insanlar daha zekidir. ",
+ "Ölüm anýnda dokunma ve görme hissinden sonra duyma yetisini kaybedilir. Kalp durduktan sonra ortalama 2 dk boyunca sesler algýlanabilir. ",
+ "En zeki hayvanlardan biri olarak kabul gören kargalar, týpký insanlar gibi yaþlý ebeveynlerini yýllar sonra gidip ziyaret ederler. ",
+  " Havuçlarýn rengi 17. yy kadar turuncu deðil mordur",
+ "Penguenler sadece Güney kutbunda yaþarlar. ",
+ "Türkiye’de atanamayan öðretmenlerin sayýsý Ýzlanda ‘nýn nüfusundan fazladýr. ",
+"Sobalý evlerde kolay uyunmasýnýn nedeni, sobanýn oksijen miktarýný azaltmasýdýr.",
+         "Tweety aslýnda erkektir. ",
+         "Kar tanelerinin hiç biri ayný þekilde deðildir. ",
+         
